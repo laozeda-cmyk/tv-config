@@ -363,263 +363,6 @@
    ]
   },
   {
-   "group": "地方频道",
-   "channels": [
-    {
-     "name": "北京新闻",
-     "urls": [
-      "http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8",
-      "http://live.funhillrm.com/5/sd/live.m3u8"
-     ]
-    },
-    {
-     "name": "北京文艺",
-     "urls": [
-      "http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8"
-     ]
-    },
-    {
-     "name": "上海新闻",
-     "urls": [
-      "http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/d1.m3u8"
-     ]
-    },
-    {
-     "name": "广州新闻",
-     "urls": [
-      "http://aplay.gztv.com/sec/xinwen.m3u8",
-      "https://tencentplay.gztv.com/live/xinwen.m3u8"
-     ]
-    },
-    {
-     "name": "广州综合",
-     "urls": [
-      "https://aplay.gztv.com/sec/zhonghe.m3u8",
-      "http://aplay.gztv.com/sec/zhonghe.m3u8"
-     ]
-    },
-    {
-     "name": "广东珠江",
-     "urls": [
-      "http://39.135.32.24:6610/000000001000/1000000004000011655/1.m3u8?xtkg",
-      "http://120.238.94.10:9901/tsfile/live/1009_1.m3u8"
-     ]
-    },
-    {
-     "name": "深圳都市",
-     "urls": [
-      "http://ye23.win/iptv/sztv.php?id=2"
-     ]
-    },
-    {
-     "name": "深圳公共",
-     "urls": [
-      "http://ye23.win/iptv/sztv.php?id=4"
-     ]
-    },
-    {
-     "name": "浙江钱江都市",
-     "urls": [
-      "http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
-      "http://yd-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
-      "http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8"
-     ]
-    },
-    {
-     "name": "浙江新闻",
-     "urls": [
-      "http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
-      "http://yd-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
-     ]
-    },
-    {
-     "name": "浙江民生休闲",
-     "urls": [
-      "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
-     ]
-    },
-    {
-     "name": "湖南经视",
-     "urls": [
-      "http://124.232.231.246:6610/000000001001/201600010002/index.m3u8"
-     ]
-    },
-    {
-     "name": "武汉新闻综合",
-     "urls": [
-      "http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8"
-     ]
-    },
-    {
-     "name": "山东齐鲁",
-     "urls": [
-      "http://39.136.48.98:8089/PLTV/88888888/224/3221226045/1.m3u8",
-      "http://123.129.70.178:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0"
-     ]
-    },
-    {
-     "name": "山东新闻",
-     "urls": [
-      "http://119.164.216.162:9901/tsfile/live/1005_1.m3u8"
-     ]
-    },
-    {
-     "name": "南京新闻综合",
-     "urls": [
-      "http://live.nbs.cn/channels/njtv/xwzh/500k.m3u8"
-     ]
-    },
-    {
-     "name": "江苏教育",
-     "urls": [
-      "http://117.148.179.157/PLTV/88888888/224/3221232828/index.m3u8"
-     ]
-    },
-    {
-     "name": "南京教科",
-     "urls": [
-      "http://live.nbs.cn/channels/njtv/jkpd/500k.m3u8"
-     ]
-    },
-    {
-     "name": "南京生活",
-     "urls": [
-      "http://live.nbs.cn/channels/njtv/shpd/500k.m3u8"
-     ]
-    },
-    {
-     "name": "南京娱乐",
-     "urls": [
-      "http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8"
-     ]
-    },
-    {
-     "name": "苏州新闻综合",
-     "urls": [
-      "https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "无锡新闻综合",
-     "urls": [
-      "http://m.m3u8.wifiwx.com/live/wifiwx-239.m3u8"
-     ]
-    },
-    {
-     "name": "南通新闻综合",
-     "urls": [
-      "http://cm.wshls.homecdn.com/live/7cc9.m3u8"
-     ]
-    },
-    {
-     "name": "徐州新闻综合",
-     "urls": [
-      "http://stream3.huaihai.tv/xsrmt/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "盐城新闻综合",
-     "urls": [
-      "http://stream.0515yc.cn/yctv1/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "山东少儿",
-     "urls": [
-      "http://119.164.216.162:9901/tsfile/live/1006_1.m3u8"
-     ]
-    },
-    {
-     "name": "山东教育卫视",
-     "urls": [
-      "http://39.135.32.10:6610/000000001000/SD-4000k-576P-shandongjy/1.m3u8?IASHttpSessionId=OTT"
-     ]
-    },
-    {
-     "name": "青岛新闻综合",
-     "urls": [
-      "http://lanjinglive02.qtvnews.com/qtv/zb9.m3u8?auth_key=2195065577-0-0-13b86545db9ed57a81bd05800caa7dd7"
-     ]
-    },
-    {
-     "name": "烟台新闻综合",
-     "urls": [
-      "http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8"
-     ]
-    },
-    {
-     "name": "潍坊新闻综合",
-     "urls": [
-      "http://sobeylingyun02pull.sobeylive.com/live/wf1pd.m3u8"
-     ]
-    },
-    {
-     "name": "威海综合",
-     "urls": [
-      "https://jsylivealone302.iqilu.com/live/weihai_tv01/index.m3u8"
-     ]
-    },
-    {
-     "name": "济宁综合",
-     "urls": [
-      "http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8"
-     ]
-    },
-    {
-     "name": "日照新闻综合",
-     "urls": [
-      "http://live.rzw.com.cn/xwzh/sd/live.m3u8"
-     ]
-    },
-    {
-     "name": "宿迁综合",
-     "urls": [
-      "http://play.tvlive.sqsjt.net/live/sqtv1/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "宿迁公共",
-     "urls": [
-      "http://play.tvlive.sqsjt.net/live/sqtv2/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "沭阳综合",
-     "urls": [
-      "http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8",
-      "http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd"
-     ]
-    },
-    {
-     "name": "东营综合",
-     "urls": [
-      "http://stream.hhek.cn/xwzh/sd/live.m3u8?shandd",
-      "http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8"
-     ]
-    },
-    {
-     "name": "东营公共",
-     "urls": [
-      "http://stream.hhek.cn/ggpd/sd/live.m3u8?shandd",
-      "http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8"
-     ]
-    },
-    {
-     "name": "东营科教",
-     "urls": [
-      "http://stream.hhek.cn/dyjy/sd/live.m3u8?shandd"
-     ]
-    },
-    {
-     "name": "利津综合",
-     "urls": [
-      "https://jsylivealone302.iqilu.com/live/lijin_tv01/index.m3u8?shandd",
-      "https://livealone302.iqilu.com/lijin/lijin_tv01/playlist.m3u8?shandd"
-     ]
-    }
-   ]
-  },
-  {
    "group": "香港频道",
    "channels": [
     {
@@ -791,6 +534,87 @@
      "urls": [
       "https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8",
       "https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "国际新闻",
+   "channels": [
+    {
+     "name": "BBC News",
+     "urls": [
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+     ]
+    },
+    {
+     "name": "Al Jazeera English 半岛",
+     "urls": [
+      "https://live-hls-aje-ak.getaj.net/AJE/01.m3u8",
+      "https://live-hls-web-aje.getaj.net/AJE/02.m3u8"
+     ]
+    },
+    {
+     "name": "France 24 English 法24",
+     "urls": [
+      "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+      "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8"
+     ]
+    },
+    {
+     "name": "DW 德国之声",
+     "urls": [
+      "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+     ]
+    },
+    {
+     "name": "CNA 亚洲新闻台",
+     "urls": [
+      "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+     ]
+    },
+    {
+     "name": "NHK World 日本",
+     "urls": [
+      "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
+      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"
+     ]
+    },
+    {
+     "name": "Bloomberg 彭博",
+     "urls": [
+      "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8"
+     ]
+    },
+    {
+     "name": "TRT World 土耳其",
+     "urls": [
+      "https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8"
+     ]
+    },
+    {
+     "name": "Arirang 阿里郎",
+     "urls": [
+      "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8"
+     ]
+    },
+    {
+     "name": "ABC News 美国",
+     "urls": [
+      "https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626"
+     ]
+    },
+    {
+     "name": "Sky News 天空新闻",
+     "urls": [
+      "https://d39chvnxm26pgp.cloudfront.net/v1/master/72588bff830dec7b26d7cbbf5f3c24928aec5c03/cc-sthen6ms4vxgv-stage/WNSFO/ABR.m3u8"
+     ]
+    },
+    {
+     "name": "CGTN 中国国际",
+     "urls": [
+      "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
+      "https://live.cgtn.com/1000/prog_index.m3u8"
      ]
     }
    ]
