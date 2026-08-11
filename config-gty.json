@@ -280,20 +280,6 @@
       "http://120.76.248.139/live/bfgd/4200000611.m3u8",
       "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnty"
      ]
-    },
-    {
-     "name": "山东体育",
-     "urls": [
-      "https://cdn.qd.je/163189/typd",
-      "http://123.130.84.106:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0"
-     ]
-    },
-    {
-     "name": "江苏体育",
-     "urls": [
-      "http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY",
-      "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225935/index.m3u8"
-     ]
     }
    ]
   },
