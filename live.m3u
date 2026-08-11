@@ -83,6 +83,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 https://2.fast.hidns.vip/163189/gdty
 #EXTINF:-1 group-title="体育频道",广东体育
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
+#EXTINF:-1 group-title="体育频道",广东体育
+http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 #EXTINF:-1 group-title="体育频道",央视台球
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 group-title="体育频道",央视风暴足球
@@ -127,6 +129,18 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="体育频道",Rev'n Action 户外
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 group-title="体育频道",辽宁体育
+http://120.76.248.139/live/bfgd/4200000611.m3u8
+#EXTINF:-1 group-title="体育频道",辽宁体育
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnty
+#EXTINF:-1 group-title="体育频道",新视觉体育
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xsj
+#EXTINF:-1 group-title="体育频道",新视觉体育
+http://php.jdshipin.com/TVOD/iptv.php?id=xsj
+#EXTINF:-1 group-title="体育频道",山东体育
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdty
+#EXTINF:-1 group-title="体育频道",山东体育
+http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视频道",浙江卫视
@@ -369,3 +383,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w825764297_b3840
 https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="国际新闻",VTV4 越南国际
 https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="马来西亚频道",8TV 八度空间
+https://cdn.qd.je/163189/8tv
+#EXTINF:-1 group-title="马来西亚频道",8TV 八度空间
+https://cdn6.cc.cd/163189/8tv
+#EXTINF:-1 group-title="印尼频道",DAAI 大爱电视
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8

@@ -1551,7 +1551,8 @@
      "urls": [
       "http://php.jdshipin.com/TVOD/iptv.php?id=gdty",
       "https://2.fast.hidns.vip/163189/gdty",
-      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty"
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty",
+      "http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub"
      ]
     },
     {
@@ -1674,6 +1675,27 @@
      "name": "Rev'n Action 户外",
      "urls": [
       "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8"
+     ]
+    },
+    {
+     "name": "辽宁体育",
+     "urls": [
+      "http://120.76.248.139/live/bfgd/4200000611.m3u8",
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lnty"
+     ]
+    },
+    {
+     "name": "新视觉体育",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xsj",
+      "http://php.jdshipin.com/TVOD/iptv.php?id=xsj"
+     ]
+    },
+    {
+     "name": "山东体育",
+     "urls": [
+      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdty",
+      "http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8"
      ]
     }
    ]
@@ -2230,6 +2252,29 @@
      "name": "VTV4 越南国际",
      "urls": [
       "https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "马来西亚频道",
+   "channels": [
+    {
+     "name": "8TV 八度空间",
+     "urls": [
+      "https://cdn.qd.je/163189/8tv",
+      "https://cdn6.cc.cd/163189/8tv"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "印尼频道",
+   "channels": [
+    {
+     "name": "DAAI 大爱电视",
+     "urls": [
+      "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
      ]
     }
    ]
