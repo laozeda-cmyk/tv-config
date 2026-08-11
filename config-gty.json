@@ -284,9 +284,8 @@
     {
      "name": "山东体育",
      "urls": [
-      "http://123.130.84.106:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "http://123.130.84.106:8154/tsfile/live/1006_1.m3u8",
-      "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sdty"
+      "https://cdn.qd.je/163189/typd",
+      "http://123.130.84.106:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0"
      ]
     },
     {
