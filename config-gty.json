@@ -577,7 +577,7 @@
      "name": "NHK World 日本",
      "urls": [
       "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
-      "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"
+      "https://media-tyo.hls.nhkworld.jp/hls/w/live/o-master.m3u8"
      ]
     },
     {
@@ -613,8 +613,51 @@
     {
      "name": "CGTN 中国国际",
      "urls": [
-      "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8",
-      "https://live.cgtn.com/1000/prog_index.m3u8"
+      "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+      "https://live.cgtn.com/1000/prog_index.m3u8",
+      "http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8"
+     ]
+    },
+    {
+     "name": "RT 俄罗斯",
+     "urls": [
+      "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "Espreso TV 乌克兰",
+     "urls": [
+      "https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8"
+     ]
+    },
+    {
+     "name": "FREEDOM 乌克兰英语",
+     "urls": [
+      "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "TVRI World 印尼",
+     "urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
+     ]
+    },
+    {
+     "name": "CNN Indonesia 印尼新闻",
+     "urls": [
+      "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w825764297_b384000_sleng.m3u8"
+     ]
+    },
+    {
+     "name": "VTV1 越南",
+     "urls": [
+      "https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8"
+     ]
+    },
+    {
+     "name": "VTV4 越南国际",
+     "urls": [
+      "https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8"
      ]
     }
    ]
