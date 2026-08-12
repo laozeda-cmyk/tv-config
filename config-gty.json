@@ -284,243 +284,6 @@
    ]
   },
   {
-   "group": "卫视频道",
-   "channels": [
-    {
-     "name": "湖南卫视",
-     "urls": [
-      "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-      "http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "浙江卫视",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-43fa1ca762f3b76174d9ab6dfa74d12d",
-      "http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009"
-     ]
-    },
-    {
-     "name": "江苏卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009"
-     ]
-    },
-    {
-     "name": "东方卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009"
-     ]
-    },
-    {
-     "name": "北京卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "广东卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "深圳卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
-      "http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8"
-     ]
-    },
-    {
-     "name": "天津卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "山东卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "四川卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "湖北卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "河南卫视",
-     "urls": [
-      "http://61.136.172.236:9901/tsfile/live/0139_1.m3u8",
-      "http://120.198.86.186:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "http://38.75.136.137:98/gslb/dsdqbv/hawshd.m3u8?auth=test20251009"
-     ]
-    },
-    {
-     "name": "辽宁卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "黑龙江卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "江西卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "吉林卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "陕西卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "贵州卫视",
-     "urls": [
-      "http://58.56.162.102:4466/newlive/live/hls/39/live.m3u8",
-      "http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "广西卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "云南卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub",
-      "http://120.237.39.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1"
-     ]
-    },
-    {
-     "name": "东南卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "安徽卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub",
-      "http://38.75.136.137:98/gslb/dsdqbv/ahwshd.m3u8?auth=test20251009",
-      "http://140.207.241.3:8080/live/program/live/ahwshd/1300000/d1.m3u8"
-     ]
-    },
-    {
-     "name": "河北卫视",
-     "urls": [
-      "https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1786506230&k=1f4ebc408df13f426c38a2a03050aec6"
-     ]
-    },
-    {
-     "name": "重庆卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/cqwshd.m3u8?auth=test20251009",
-      "http://39.135.32.10:6610/000000001000/HD-8000k-1080P-chongqingstv/1.m3u8?IASHttpSessionId=OTT"
-     ]
-    },
-    {
-     "name": "山西卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub",
-      "http://liveflash.sxrtv.com/live/sxwshd.m3u8",
-      "http://39.135.32.10:6610/000000001000/SD-4000k-576P-shanxistv/1.m3u8?IASHttpSessionId=OTT"
-     ]
-    },
-    {
-     "name": "内蒙古卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/nmgws.m3u8?auth=test20251009",
-      "http://39.134.193.100:6610/030000001001/neimenggustv/1.m3u8?i"
-     ]
-    },
-    {
-     "name": "新疆卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/xjws.m3u8?auth=test20251009",
-      "http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0"
-     ]
-    },
-    {
-     "name": "甘肃卫视",
-     "urls": [
-      "http://120.198.86.186:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0",
-      "http://38.75.136.137:98/gslb/dsdqbv/gswshd.m3u8?auth=test20251009"
-     ]
-    },
-    {
-     "name": "青海卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/qinghaiwshd.m3u8?auth=test20251009",
-      "http://39.134.193.100:6610/030000001001/qinghaistv/1.m3u8?i"
-     ]
-    },
-    {
-     "name": "宁夏卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/nxws.m3u8?auth=test20251009",
-      "http://39.134.193.100:6610/030000001001/ningxiastv/1.m3u8?i"
-     ]
-    },
-    {
-     "name": "海南卫视",
-     "urls": [
-      "http://39.135.32.10:6610/000000001000/lvyoustv/1.m3u8?IASHttpSessionId=OTT",
-      "http://39.135.138.58:18890/ysten-businessmobile/live/lvyoustv/1.m3u8"
-     ]
-    },
-    {
-     "name": "厦门卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/xmws.m3u8?auth=test20251009",
-      "http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT"
-     ]
-    },
-    {
-     "name": "兵团卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/btws.m3u8?auth=test20251009",
-      "http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "延边卫视",
-     "urls": [
-      "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
-      "http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-yanbianstv/1.m3u8"
-     ]
-    },
-    {
-     "name": "三沙卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqbv/ssws.m3u8?auth=test20251009",
-      "http://pull2.ssws.tv/live/SswsTV20210803.m3u8"
-     ]
-    }
-   ]
-  },
-  {
    "group": "香港频道",
    "channels": [
     {
@@ -861,341 +624,434 @@
    ]
   },
   {
-   "group": "河北",
+   "group": "卫视频道",
    "channels": [
     {
-     "name": "河北卫视",
+     "name": "湖南卫视",
      "urls": [
-      "https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1786506231&k=7ad72d3fd2a6adae1bab162648165c47"
+      "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+      "http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub",
+      "http://192.168.31.140:8787/live/hunan?id=287"
      ]
     },
     {
-     "name": "经济生活",
+     "name": "浙江卫视",
      "urls": [
-      "https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1786506232&k=b76041917144852ca87847727ec18f33"
+      "https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-43fa1ca762f3b76174d9ab6dfa74d12d",
+      "http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009",
+      "http://192.168.31.140:8787/live/zhejiang?code=01"
      ]
     },
     {
-     "name": "三农频道",
+     "name": "江苏卫视",
      "urls": [
-      "https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1786506232&k=e0f50f2af3944bcaa5c46f81e3a01ade"
+      "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009",
+      "http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8",
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjswspro.m3u8"
      ]
     },
     {
-     "name": "河北都市",
+     "name": "东方卫视",
      "urls": [
-      "https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1786506232&k=b0ced586562d3c506ca08f3bc240c8f8"
+      "http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009",
+      "http://192.168.31.140:8787/live/shanghai?id=1"
      ]
     },
     {
-     "name": "少儿科教",
+     "name": "北京卫视",
      "urls": [
-      "https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1786506232&k=f89ca850d76dbae0686482aebea45f29"
+      "http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub"
      ]
     },
     {
-     "name": "三佳购物",
+     "name": "广东卫视",
      "urls": [
-      "https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=1786506232&k=d66680681d95c638b2bc9b5322838f26"
+      "http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub"
      ]
-    }
-   ]
-  },
-  {
-   "group": "河南",
-   "channels": [
+    },
+    {
+     "name": "深圳卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
+      "http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8"
+     ]
+    },
+    {
+     "name": "天津卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "山东卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub",
+      "https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=c322f2441b13e096954a0bc14f9c222e&t=1786500236"
+     ]
+    },
+    {
+     "name": "四川卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "湖北卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub",
+      "http://58.56.162.102:4466/newlive/live/hls/36/live.m3u8",
+      "http://192.168.31.140:8787/live/hubei?id=431"
+     ]
+    },
     {
      "name": "河南卫视",
      "urls": [
+      "http://61.136.172.236:9901/tsfile/live/0139_1.m3u8",
+      "http://120.198.86.186:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "http://38.75.136.137:98/gslb/dsdqbv/hawshd.m3u8?auth=test20251009",
       "http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e3d7a7a20870a9dd46fb1107bc3968a1&wsTime=1786513425"
      ]
     },
     {
-     "name": "新闻频道",
+     "name": "辽宁卫视",
      "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=854cba87a73c36cfc0480d02be71eba9&wsTime=1786513425"
+      "http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub"
      ]
     },
-    {
-     "name": "都市频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5afecf0e3fa8df0880b48863272a6d95&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "民生频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=44916063d051802caab9f5089dca6640&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "法治频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=37220fad0a172a65c43c95c38e6d0611&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "电视剧频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1fac1aad19ea406f07a6f02dd38830a9&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "梨园频道",
-     "urls": [
-      "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1b14361a59fa6ac7ecab5e555ee94db1&wsTime=2101860501"
-     ]
-    },
-    {
-     "name": "文物宝库",
-     "urls": [
-      "https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=04c46fc0eb06f4c75f35967dd8f0deba&wsTime=2101860501"
-     ]
-    },
-    {
-     "name": "武术频道",
-     "urls": [
-      "https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=7fdbdaff89a6e3fcf52f942d7051a922&wsTime=2101860501"
-     ]
-    },
-    {
-     "name": "睛彩中原",
-     "urls": [
-      "https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=f78a4c58e05d31ba4f3554325aa7189d&wsTime=2101860501"
-     ]
-    },
-    {
-     "name": "欢腾购物",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d9bcd806a65bcc08c2fb40237440d31f&wsTime=1786513425"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "浙江",
-   "channels": [
-    {
-     "name": "浙江卫视",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-43fa1ca762f3b76174d9ab6dfa74d12d"
-     ]
-    },
-    {
-     "name": "钱江都市",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-6355fa6060ce98bc51f93345b746d525"
-     ]
-    },
-    {
-     "name": "经济生活",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-8c0daed67a7c3229b9baa3b9fe5e79b8"
-     ]
-    },
-    {
-     "name": "教科影视",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-c65cbbd1a0de49fff6fe781dfa8f359f"
-     ]
-    },
-    {
-     "name": "民生休闲",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-1bf1fa5c8b999f72ba11d82e5fdae985"
-     ]
-    },
-    {
-     "name": "新闻",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel071080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-ecc84055c47cec3a8f32d2830cf8bf35"
-     ]
-    },
-    {
-     "name": "少儿频道",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-23284a12dd52c8269bb31e061ef01dd4"
-     ]
-    },
-    {
-     "name": "浙江国际",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-0d7718a9323939998c47651bffdac60e"
-     ]
-    },
-    {
-     "name": "好易购",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel111080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-af333ad8598e00ab72b8d9cbc7f498bf"
-     ]
-    },
-    {
-     "name": "之江纪录",
-     "urls": [
-      "https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-a0ae1300e2128b329c6e4155aa5f516d"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "安徽",
-   "channels": [
-    {
-     "name": "综艺体育",
-     "urls": [
-      "https://live5.ahtv.cn/zyty1/playlist.m3u8?_upt=8e7ad7531786506067"
-     ]
-    },
-    {
-     "name": "安徽公共",
-     "urls": [
-      "https://live5.ahtv.cn/ahgg/playlist.m3u8?_upt=5f2cb8981786506067"
-     ]
-    },
-    {
-     "name": "农业·科教",
-     "urls": [
-      "https://live5.ahtv.cn/kjpd/playlist.m3u8?_upt=a8e1a3af1786506067"
-     ]
-    },
-    {
-     "name": "安徽国际",
-     "urls": [
-      "https://live5.ahtv.cn/ahgj1/playlist.m3u8?_upt=cd24f3931786506067"
-     ]
-    },
-    {
-     "name": "移动电视",
-     "urls": [
-      "https://live5.ahtv.cn/ydds1/playlist.m3u8?_upt=b88ebe5c1786506067"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "黑龙江",
-   "channels": [
     {
      "name": "黑龙江卫视",
      "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub",
       "https://idclive.hljtv.com:4430/live/hljws_own.m3u8"
      ]
     },
     {
-     "name": "都市频道",
+     "name": "江西卫视",
      "urls": [
-      "https://idclive.hljtv.com:4430/live/dushi_hd.m3u8"
+      "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub",
+      "http://61.136.172.236:9901/tsfile/live/0138_1.m3u8",
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv1"
      ]
     },
     {
-     "name": "影视频道",
+     "name": "吉林卫视",
      "urls": [
-      "https://idclive.hljtv.com:4430/live/hljys_hd.m3u8"
+      "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub"
      ]
     },
     {
-     "name": "文体频道",
+     "name": "陕西卫视",
      "urls": [
-      "https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8"
+      "http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub"
      ]
     },
     {
-     "name": "农业科教",
+     "name": "贵州卫视",
      "urls": [
-      "https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8"
+      "http://58.56.162.102:4466/newlive/live/hls/39/live.m3u8",
+      "http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub"
      ]
     },
     {
-     "name": "新闻法治",
+     "name": "广西卫视",
      "urls": [
-      "https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8"
+      "http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub",
+      "https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8"
      ]
     },
     {
-     "name": "少儿频道",
+     "name": "云南卫视",
      "urls": [
-      "https://idclive.hljtv.com:4430/live/hljse_hd.m3u8"
+      "http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub",
+      "http://120.237.39.10:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1"
      ]
-    }
-   ]
-  },
-  {
-   "group": "重庆",
-   "channels": [
+    },
     {
-     "name": "重庆新闻",
+     "name": "东南卫视",
      "urls": [
-      "https://sjlivecdn.cbg.cn/202608120943/2e4ec66812c10009267f83d0d79493da/app_2/_definst_/ls_3.stream/chunklist.m3u8"
+      "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub"
      ]
-    }
-   ]
-  },
-  {
-   "group": "海南",
-   "channels": [
+    },
+    {
+     "name": "安徽卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub",
+      "http://38.75.136.137:98/gslb/dsdqbv/ahwshd.m3u8?auth=test20251009",
+      "http://140.207.241.3:8080/live/program/live/ahwshd/1300000/d1.m3u8"
+     ]
+    },
+    {
+     "name": "河北卫视",
+     "urls": [
+      "https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1786506230&k=1f4ebc408df13f426c38a2a03050aec6",
+      "https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1786506231&k=7ad72d3fd2a6adae1bab162648165c47"
+     ]
+    },
+    {
+     "name": "重庆卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/cqwshd.m3u8?auth=test20251009",
+      "http://39.135.32.10:6610/000000001000/HD-8000k-1080P-chongqingstv/1.m3u8?IASHttpSessionId=OTT"
+     ]
+    },
+    {
+     "name": "山西卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub",
+      "http://liveflash.sxrtv.com/live/sxwshd.m3u8",
+      "http://39.135.32.10:6610/000000001000/SD-4000k-576P-shanxistv/1.m3u8?IASHttpSessionId=OTT"
+     ]
+    },
+    {
+     "name": "内蒙古卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/nmgws.m3u8?auth=test20251009",
+      "http://39.134.193.100:6610/030000001001/neimenggustv/1.m3u8?i",
+      "http://222.134.245.16:9901/tsfile/live/0109_1.m3u8"
+     ]
+    },
+    {
+     "name": "新疆卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/xjws.m3u8?auth=test20251009",
+      "http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0"
+     ]
+    },
+    {
+     "name": "甘肃卫视",
+     "urls": [
+      "http://120.198.86.186:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "http://38.75.136.137:98/gslb/dsdqbv/gswshd.m3u8?auth=test20251009"
+     ]
+    },
+    {
+     "name": "青海卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/qinghaiwshd.m3u8?auth=test20251009",
+      "http://39.134.193.100:6610/030000001001/qinghaistv/1.m3u8?i"
+     ]
+    },
+    {
+     "name": "宁夏卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/nxws.m3u8?auth=test20251009",
+      "http://39.134.193.100:6610/030000001001/ningxiastv/1.m3u8?i"
+     ]
+    },
+    {
+     "name": "海南卫视",
+     "urls": [
+      "http://39.135.32.10:6610/000000001000/lvyoustv/1.m3u8?IASHttpSessionId=OTT",
+      "http://39.135.138.58:18890/ysten-businessmobile/live/lvyoustv/1.m3u8"
+     ]
+    },
+    {
+     "name": "厦门卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/xmws.m3u8?auth=test20251009",
+      "http://39.135.32.10:6610/000000001000/SD-4000k-576P-xiamenstv/1.m3u8?IASHttpSessionId=OTT"
+     ]
+    },
+    {
+     "name": "兵团卫视",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqbv/btws.m3u8?auth=test20251009",
+      "http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "延边卫视",
+     "urls": [
+      "http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8",
+      "http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-yanbianstv/1.m3u8"
+     ]
+    },
     {
      "name": "三沙卫视",
      "urls": [
-      "https://livessws.hnntv.cn/live/ssws_260111hnntv.m3u8?_upt=b5dbfff61786506238"
+      "http://38.75.136.137:98/gslb/dsdqbv/ssws.m3u8?auth=test20251009",
+      "http://pull2.ssws.tv/live/SswsTV20210803.m3u8",
+      "https://livessws.hnntv.cn/live/ssws_260111hnntv.m3u8?_upt=b5dbfff61786506238",
+      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_ssws"
      ]
     },
     {
-     "name": "海南自贸",
+     "name": "南方卫视",
      "urls": [
-      "https://live2.hnntv.cn/srs/tv/jjpd.m3u8?_upt=f06f06cd1786506238"
+      "http://61.136.172.236:9901/tsfile/live/0135_1.m3u8",
+      "http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub"
      ]
     },
     {
-     "name": "海南新闻",
+     "name": "大湾区卫视",
      "urls": [
-      "https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=97ab25591786506238"
+      "http://222.128.55.152:9080/live/dwq.m3u8"
      ]
     },
     {
-     "name": "海南社会与法",
+     "name": "海峡卫视",
      "urls": [
-      "https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=d5dc47e31786506238"
+      "http://38.75.136.137:98/gslb/dsdqpub/hxws.m3u8?auth=testpub"
      ]
     },
     {
-     "name": "海南文旅",
+     "name": "上海卫视",
      "urls": [
-      "https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=5b3ade091786506238"
-     ]
-    },
-    {
-     "name": "海南少儿",
-     "urls": [
-      "https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=d99eb32c1786506238"
+      "http://112.27.235.94:8000/hls/28/index.m3u8"
      ]
     }
    ]
   },
   {
-   "group": "哈尔滨",
+   "group": "高清频道",
+   "channels": [
+    {
+     "name": "江苏卫视4K超高清",
+     "urls": [
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2F4klive%2Fjsws4kpro.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-上海",
+   "channels": [
+    {
+     "name": "上海第一财经",
+     "urls": [
+      "https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "魔都眼",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanghai?id=11"
+     ]
+    },
+    {
+     "name": "第一财经",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanghai?id=5"
+     ]
+    },
+    {
+     "name": "新纪实",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanghai?id=12"
+     ]
+    },
+    {
+     "name": "五星体育",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanghai?id=10"
+     ]
+    },
+    {
+     "name": "都市频道",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanghai?id=4"
+     ]
+    },
+    {
+     "name": "哈哈炫动",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanghai?id=9"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-云南",
+   "channels": [
+    {
+     "name": "云南都市",
+     "urls": [
+      "http://192.168.31.140:8787/live/yunnan?id=yunnandushi"
+     ]
+    },
+    {
+     "name": "康旅频道",
+     "urls": [
+      "http://192.168.31.140:8787/live/yunnan?id=yunnangonggong"
+     ]
+    },
+    {
+     "name": "澜湄国际",
+     "urls": [
+      "http://192.168.31.140:8787/live/yunnan?id=yunnanguoji"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-内蒙古",
+   "channels": [
+    {
+     "name": "内蒙古蒙语",
+     "urls": [
+      "http://live2.m2oplus.nmtv.cn/01/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古新闻综合",
+     "urls": [
+      "http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古文体娱乐",
+     "urls": [
+      "http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古经济生活",
+     "urls": [
+      "http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古农牧",
+     "urls": [
+      "http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古文化",
+     "urls": [
+      "http://live4.m2oplus.nmtv.cn/04/hd/live.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-哈尔滨",
    "channels": [
     {
      "name": "影视频道",
      "urls": [
-      "http://stream.hrbtv.net/yspd/playlist.m3u8?_upt=1de8a3d01786506239"
+      "http://stream.hrbtv.net/yspd/playlist.m3u8?_upt=1de8a3d01786506239",
+      "http://192.168.31.140:8787/live/haerbin?id=5"
      ]
     },
     {
      "name": "新闻综合",
      "urls": [
-      "http://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=f1db323a1786506239"
+      "http://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=f1db323a1786506239",
+      "http://192.168.31.140:8787/live/haerbin?id=3"
      ]
     },
     {
      "name": "生活频道",
      "urls": [
-      "http://stream.hrbtv.net/shpd/playlist.m3u8?_upt=d99e31611786506240"
+      "http://stream.hrbtv.net/shpd/playlist.m3u8?_upt=d99e31611786506240",
+      "http://192.168.31.140:8787/live/haerbin?id=7"
      ]
     }
    ]
   },
   {
-   "group": "地方",
+   "group": "地方频道-地方",
    "channels": [
     {
      "name": "新闻综合",
@@ -1266,14 +1122,43 @@
    ]
   },
   {
-   "group": "山东",
+   "group": "地方频道-安徽",
    "channels": [
     {
-     "name": "山东卫视",
+     "name": "综艺体育",
      "urls": [
-      "https://tstreamlive302.iqilu.com/21/cb1628e9b65a4cfd985b1760809696ee/playlist.m3u8?k=c322f2441b13e096954a0bc14f9c222e&t=1786500236"
+      "https://live5.ahtv.cn/zyty1/playlist.m3u8?_upt=8e7ad7531786506067"
      ]
     },
+    {
+     "name": "安徽公共",
+     "urls": [
+      "https://live5.ahtv.cn/ahgg/playlist.m3u8?_upt=5f2cb8981786506067"
+     ]
+    },
+    {
+     "name": "农业·科教",
+     "urls": [
+      "https://live5.ahtv.cn/kjpd/playlist.m3u8?_upt=a8e1a3af1786506067"
+     ]
+    },
+    {
+     "name": "安徽国际",
+     "urls": [
+      "https://live5.ahtv.cn/ahgj1/playlist.m3u8?_upt=cd24f3931786506067"
+     ]
+    },
+    {
+     "name": "移动电视",
+     "urls": [
+      "https://live5.ahtv.cn/ydds1/playlist.m3u8?_upt=b88ebe5c1786506067"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-山东",
+   "channels": [
     {
      "name": "齐鲁频道",
      "urls": [
@@ -1313,14 +1198,74 @@
    ]
   },
   {
-   "group": "广西",
+   "group": "地方频道-山西",
    "channels": [
     {
-     "name": "广西卫视",
+     "name": "新闻综合",
      "urls": [
-      "https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw"
      ]
     },
+    {
+     "name": "经济生活",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h"
+     ]
+    },
+    {
+     "name": "社教法制",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e"
+     ]
+    },
+    {
+     "name": "影视",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=J4EX72D"
+     ]
+    },
+    {
+     "name": "文体",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=rk8Z088"
+     ]
+    },
+    {
+     "name": "城市生活",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU"
+     ]
+    },
+    {
+     "name": "太原教育",
+     "urls": [
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=g4XtSCF"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-广东",
+   "channels": [
+    {
+     "name": "广东珠江",
+     "urls": [
+      "http://183.11.239.36:808/hls/83/index.m3u8",
+      "http://php.jdshipin.com/TVOD/iptv.php?id=gdzj"
+     ]
+    },
+    {
+     "name": "广东公共",
+     "urls": [
+      "http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub",
+      "http://183.11.239.36:808/hls/84/index.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-广西",
+   "channels": [
     {
      "name": "综艺旅游",
      "urls": [
@@ -1360,69 +1305,7 @@
    ]
   },
   {
-   "group": "广东频道",
-   "channels": [
-    {
-     "name": "广东珠江",
-     "urls": [
-      "http://183.11.239.36:808/hls/83/index.m3u8",
-      "http://php.jdshipin.com/TVOD/iptv.php?id=gdzj"
-     ]
-    },
-    {
-     "name": "南方卫视",
-     "urls": [
-      "http://61.136.172.236:9901/tsfile/live/0135_1.m3u8",
-      "http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "大湾区卫视",
-     "urls": [
-      "http://222.128.55.152:9080/live/dwq.m3u8"
-     ]
-    },
-    {
-     "name": "广东公共",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub",
-      "http://183.11.239.36:808/hls/84/index.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "湖南频道",
-   "channels": [
-    {
-     "name": "湖南经视",
-     "urls": [
-      "https://stream1.freetv.fun/hu-nan-jing-shi-6.m3u8"
-     ]
-    },
-    {
-     "name": "湖南都市",
-     "urls": [
-      "https://stream1.freetv.fun/hu-nan-du-shi-6.m3u8"
-     ]
-    },
-    {
-     "name": "湖南娱乐",
-     "urls": [
-      "https://stream1.freetv.fun/hu-nan-yu-le-6.m3u8",
-      "http://php.jdshipin.com/TVOD/iptv.php?id=hnyl"
-     ]
-    },
-    {
-     "name": "湖南公共",
-     "urls": [
-      "http://php.jdshipin.com/TVOD/iptv.php?id=hngg"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "新疆频道",
+   "group": "地方频道-新疆",
    "channels": [
     {
      "name": "伊犁维吾尔",
@@ -1439,286 +1322,8 @@
    ]
   },
   {
-   "group": "福建频道",
+   "group": "地方频道-江苏",
    "channels": [
-    {
-     "name": "福建综合",
-     "urls": [
-      "https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=75c082a51786512041"
-     ]
-    },
-    {
-     "name": "福建新闻",
-     "urls": [
-      "http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "福建经济",
-     "urls": [
-      "http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "海峡卫视",
-     "urls": [
-      "http://38.75.136.137:98/gslb/dsdqpub/hxws.m3u8?auth=testpub"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "贵州频道",
-   "channels": [
-    {
-     "name": "贵州公共",
-     "urls": [
-      "http://183.11.239.36:808/hls/85/index.m3u8",
-      "https://live.gzstv.com/live/ch02.m3u8"
-     ]
-    },
-    {
-     "name": "贵州影视文艺",
-     "urls": [
-      "https://live.gzstv.com/live/ch03.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "深圳频道",
-   "channels": [
-    {
-     "name": "深圳少儿",
-     "urls": [
-      "https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8",
-      "https://stream1.freetv.fun/shen-zhen-shao-er-3.m3u8"
-     ]
-    },
-    {
-     "name": "深圳财经生活",
-     "urls": [
-      "https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-1.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "江苏频道",
-   "channels": [
-    {
-     "name": "江苏卫视",
-     "urls": [
-      "http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8",
-      "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "江西频道",
-   "channels": [
-    {
-     "name": "江西卫视",
-     "urls": [
-      "http://61.136.172.236:9901/tsfile/live/0138_1.m3u8",
-      "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "江西都市",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8"
-     ]
-    },
-    {
-     "name": "江西经济生活",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8"
-     ]
-    },
-    {
-     "name": "江西公共农业",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8"
-     ]
-    },
-    {
-     "name": "江西新闻",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8"
-     ]
-    },
-    {
-     "name": "江西移动电视",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "湖北频道",
-   "channels": [
-    {
-     "name": "湖北卫视",
-     "urls": [
-      "http://58.56.162.102:4466/newlive/live/hls/36/live.m3u8",
-      "http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub"
-     ]
-    },
-    {
-     "name": "湖北综合",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-zong-he-4.ctv"
-     ]
-    },
-    {
-     "name": "湖北经视",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8"
-     ]
-    },
-    {
-     "name": "湖北生活",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-sheng-huo-2.m3u8"
-     ]
-    },
-    {
-     "name": "湖北教育",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-jiao-yu-4.ctv"
-     ]
-    },
-    {
-     "name": "湖北影视",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-ying-shi-10.m3u8"
-     ]
-    },
-    {
-     "name": "湖北公共",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8"
-     ]
-    },
-    {
-     "name": "湖北垄上",
-     "urls": [
-      "https://stream1.freetv.fun/hu-bei-long-shang-15.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "内蒙古频道",
-   "channels": [
-    {
-     "name": "内蒙古卫视",
-     "urls": [
-      "http://222.134.245.16:9901/tsfile/live/0109_1.m3u8"
-     ]
-    },
-    {
-     "name": "内蒙古蒙语",
-     "urls": [
-      "http://live2.m2oplus.nmtv.cn/01/hd/live.m3u8"
-     ]
-    },
-    {
-     "name": "内蒙古新闻综合",
-     "urls": [
-      "http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8"
-     ]
-    },
-    {
-     "name": "内蒙古文体娱乐",
-     "urls": [
-      "http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8"
-     ]
-    },
-    {
-     "name": "内蒙古经济生活",
-     "urls": [
-      "http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8"
-     ]
-    },
-    {
-     "name": "内蒙古农牧",
-     "urls": [
-      "http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8"
-     ]
-    },
-    {
-     "name": "内蒙古文化",
-     "urls": [
-      "http://live4.m2oplus.nmtv.cn/04/hd/live.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "上海频道",
-   "channels": [
-    {
-     "name": "上海卫视",
-     "urls": [
-      "http://112.27.235.94:8000/hls/28/index.m3u8"
-     ]
-    },
-    {
-     "name": "上海第一财经",
-     "urls": [
-      "https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "陕西频道",
-   "channels": [
-    {
-     "name": "陕西新闻资讯",
-     "urls": [
-      "http://112.46.105.20:8009/hls/18/index.m3u8"
-     ]
-    },
-    {
-     "name": "陕西都市青春",
-     "urls": [
-      "http://112.46.105.20:8009/hls/19/index.m3u8"
-     ]
-    },
-    {
-     "name": "陕西银龄",
-     "urls": [
-      "http://112.46.105.20:8009/hls/20/index.m3u8"
-     ]
-    },
-    {
-     "name": "陕西秦腔",
-     "urls": [
-      "http://112.46.105.20:8009/hls/22/index.m3u8"
-     ]
-    },
-    {
-     "name": "陕西公共",
-     "urls": [
-      "http://ls.qingting.fm/live/1222.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "我的电视",
-   "channels": [
-    {
-     "name": "江苏卫视",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjswspro.m3u8"
-     ]
-    },
     {
      "name": "江苏卫视4K超高清",
      "urls": [
@@ -1772,11 +1377,40 @@
      "urls": [
       "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsgjpro.m3u8"
      ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-江西",
+   "channels": [
+    {
+     "name": "江西都市",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8"
+     ]
     },
     {
-     "name": "江西卫视",
+     "name": "江西经济生活",
      "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv1"
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8"
+     ]
+    },
+    {
+     "name": "江西公共农业",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8"
+     ]
+    },
+    {
+     "name": "江西新闻",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8"
+     ]
+    },
+    {
+     "name": "江西移动电视",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8"
      ]
     },
     {
@@ -1814,311 +1448,173 @@
      "urls": [
       "http://192.168.31.140:8787/live/jiangxi?id=jxtv8"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "group": "地方频道-河北",
+   "channels": [
     {
-     "name": "浙江卫视",
+     "name": "经济生活",
      "urls": [
-      "http://192.168.31.140:8787/live/zhejiang?code=01"
+      "https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1786506232&k=b76041917144852ca87847727ec18f33"
      ]
     },
     {
+     "name": "三农频道",
+     "urls": [
+      "https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1786506232&k=e0f50f2af3944bcaa5c46f81e3a01ade"
+     ]
+    },
+    {
+     "name": "河北都市",
+     "urls": [
+      "https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1786506232&k=b0ced586562d3c506ca08f3bc240c8f8"
+     ]
+    },
+    {
+     "name": "少儿科教",
+     "urls": [
+      "https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1786506232&k=f89ca850d76dbae0686482aebea45f29"
+     ]
+    },
+    {
+     "name": "三佳购物",
+     "urls": [
+      "https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=1786506232&k=d66680681d95c638b2bc9b5322838f26"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-河南",
+   "channels": [
+    {
+     "name": "新闻频道",
+     "urls": [
+      "http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=854cba87a73c36cfc0480d02be71eba9&wsTime=1786513425"
+     ]
+    },
+    {
+     "name": "都市频道",
+     "urls": [
+      "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5afecf0e3fa8df0880b48863272a6d95&wsTime=1786513425"
+     ]
+    },
+    {
+     "name": "民生频道",
+     "urls": [
+      "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=44916063d051802caab9f5089dca6640&wsTime=1786513425"
+     ]
+    },
+    {
+     "name": "法治频道",
+     "urls": [
+      "http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=37220fad0a172a65c43c95c38e6d0611&wsTime=1786513425"
+     ]
+    },
+    {
+     "name": "电视剧频道",
+     "urls": [
+      "http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1fac1aad19ea406f07a6f02dd38830a9&wsTime=1786513425"
+     ]
+    },
+    {
+     "name": "梨园频道",
+     "urls": [
+      "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1b14361a59fa6ac7ecab5e555ee94db1&wsTime=2101860501"
+     ]
+    },
+    {
+     "name": "文物宝库",
+     "urls": [
+      "https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=04c46fc0eb06f4c75f35967dd8f0deba&wsTime=2101860501"
+     ]
+    },
+    {
+     "name": "武术频道",
+     "urls": [
+      "https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=7fdbdaff89a6e3fcf52f942d7051a922&wsTime=2101860501"
+     ]
+    },
+    {
+     "name": "睛彩中原",
+     "urls": [
+      "https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=f78a4c58e05d31ba4f3554325aa7189d&wsTime=2101860501"
+     ]
+    },
+    {
+     "name": "欢腾购物",
+     "urls": [
+      "http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d9bcd806a65bcc08c2fb40237440d31f&wsTime=1786513425"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-浙江",
+   "channels": [
+    {
      "name": "钱江都市",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-6355fa6060ce98bc51f93345b746d525",
       "http://192.168.31.140:8787/live/zhejiang?code=02"
      ]
     },
     {
      "name": "经济生活",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-8c0daed67a7c3229b9baa3b9fe5e79b8",
       "http://192.168.31.140:8787/live/zhejiang?code=03"
      ]
     },
     {
      "name": "教科影视",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel041080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-c65cbbd1a0de49fff6fe781dfa8f359f",
       "http://192.168.31.140:8787/live/zhejiang?code=04"
      ]
     },
     {
      "name": "民生休闲",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel061080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-1bf1fa5c8b999f72ba11d82e5fdae985",
       "http://192.168.31.140:8787/live/zhejiang?code=06"
      ]
     },
     {
      "name": "新闻",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel071080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-ecc84055c47cec3a8f32d2830cf8bf35",
       "http://192.168.31.140:8787/live/zhejiang?code=07"
      ]
     },
     {
      "name": "少儿频道",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-23284a12dd52c8269bb31e061ef01dd4",
       "http://192.168.31.140:8787/live/zhejiang?code=08"
      ]
     },
     {
      "name": "浙江国际",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel101080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-0d7718a9323939998c47651bffdac60e",
       "http://192.168.31.140:8787/live/zhejiang?code=10"
      ]
     },
     {
      "name": "好易购",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel111080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-af333ad8598e00ab72b8d9cbc7f498bf",
       "http://192.168.31.140:8787/live/zhejiang?code=11"
      ]
     },
     {
      "name": "之江纪录",
      "urls": [
+      "https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-a0ae1300e2128b329c6e4155aa5f516d",
       "http://192.168.31.140:8787/live/zhejiang?code=12"
-     ]
-    },
-    {
-     "name": "湖北卫视",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=431"
-     ]
-    },
-    {
-     "name": "湖北经视",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=432"
-     ]
-    },
-    {
-     "name": "湖北综合",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=433"
-     ]
-    },
-    {
-     "name": "湖北影视",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=435"
-     ]
-    },
-    {
-     "name": "湖北生活",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=436"
-     ]
-    },
-    {
-     "name": "湖北教育",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=437"
-     ]
-    },
-    {
-     "name": "湖北垄上",
-     "urls": [
-      "http://192.168.31.140:8787/live/hubei?id=438"
-     ]
-    },
-    {
-     "name": "湖南卫视",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=287"
-     ]
-    },
-    {
-     "name": "金鹰卡通",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=267"
-     ]
-    },
-    {
-     "name": "湖南经视",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=280"
-     ]
-    },
-    {
-     "name": "湖南娱乐",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=344"
-     ]
-    },
-    {
-     "name": "湖南电影",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=221"
-     ]
-    },
-    {
-     "name": "湖南都市",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=346"
-     ]
-    },
-    {
-     "name": "湖南电视剧",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=484"
-     ]
-    },
-    {
-     "name": "湖南爱晚",
-     "urls": [
-      "http://192.168.31.140:8787/live/hunan?id=261"
-     ]
-    },
-    {
-     "name": "东方卫视",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=1"
-     ]
-    },
-    {
-     "name": "魔都眼",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=11"
-     ]
-    },
-    {
-     "name": "第一财经",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=5"
-     ]
-    },
-    {
-     "name": "新纪实",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=12"
-     ]
-    },
-    {
-     "name": "五星体育",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=10"
-     ]
-    },
-    {
-     "name": "都市频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=4"
-     ]
-    },
-    {
-     "name": "哈哈炫动",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=9"
-     ]
-    },
-    {
-     "name": "三沙卫视",
-     "urls": [
-      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_ssws"
-     ]
-    },
-    {
-     "name": "海南自贸",
-     "urls": [
-      "http://192.168.31.140:8787/live/hainan?id=jjpd"
-     ]
-    },
-    {
-     "name": "海南新闻",
-     "urls": [
-      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_xwpd"
-     ]
-    },
-    {
-     "name": "海南社会与法",
-     "urls": [
-      "http://192.168.31.140:8787/live/hainan?id=ggpd"
-     ]
-    },
-    {
-     "name": "海南文旅",
-     "urls": [
-      "http://192.168.31.140:8787/live/hainan?id=wlpd"
-     ]
-    },
-    {
-     "name": "海南少儿",
-     "urls": [
-      "http://192.168.31.140:8787/live/hainan?id=sepd"
-     ]
-    },
-    {
-     "name": "云南都市",
-     "urls": [
-      "http://192.168.31.140:8787/live/yunnan?id=yunnandushi"
-     ]
-    },
-    {
-     "name": "康旅频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/yunnan?id=yunnangonggong"
-     ]
-    },
-    {
-     "name": "澜湄国际",
-     "urls": [
-      "http://192.168.31.140:8787/live/yunnan?id=yunnanguoji"
-     ]
-    },
-    {
-     "name": "影视频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/haerbin?id=5"
-     ]
-    },
-    {
-     "name": "新闻综合",
-     "urls": [
-      "http://192.168.31.140:8787/live/haerbin?id=3"
-     ]
-    },
-    {
-     "name": "生活频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/haerbin?id=7"
-     ]
-    },
-    {
-     "name": "新闻综合",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw"
-     ]
-    },
-    {
-     "name": "经济生活",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h"
-     ]
-    },
-    {
-     "name": "社教法制",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e"
-     ]
-    },
-    {
-     "name": "影视",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=J4EX72D"
-     ]
-    },
-    {
-     "name": "文体",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=rk8Z088"
-     ]
-    },
-    {
-     "name": "城市生活",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU"
-     ]
-    },
-    {
-     "name": "太原教育",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=g4XtSCF"
      ]
     },
     {
@@ -2144,6 +1640,174 @@
      "urls": [
       "http://192.168.31.140:8787/live/ningbo?id=nbtv4_md"
      ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-海南",
+   "channels": [
+    {
+     "name": "海南自贸",
+     "urls": [
+      "https://live2.hnntv.cn/srs/tv/jjpd.m3u8?_upt=f06f06cd1786506238",
+      "http://192.168.31.140:8787/live/hainan?id=jjpd"
+     ]
+    },
+    {
+     "name": "海南新闻",
+     "urls": [
+      "https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=97ab25591786506238",
+      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_xwpd"
+     ]
+    },
+    {
+     "name": "海南社会与法",
+     "urls": [
+      "https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=d5dc47e31786506238",
+      "http://192.168.31.140:8787/live/hainan?id=ggpd"
+     ]
+    },
+    {
+     "name": "海南文旅",
+     "urls": [
+      "https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=5b3ade091786506238",
+      "http://192.168.31.140:8787/live/hainan?id=wlpd"
+     ]
+    },
+    {
+     "name": "海南少儿",
+     "urls": [
+      "https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=d99eb32c1786506238",
+      "http://192.168.31.140:8787/live/hainan?id=sepd"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-深圳",
+   "channels": [
+    {
+     "name": "深圳少儿",
+     "urls": [
+      "https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8",
+      "https://stream1.freetv.fun/shen-zhen-shao-er-3.m3u8"
+     ]
+    },
+    {
+     "name": "深圳财经生活",
+     "urls": [
+      "https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-1.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-湖北",
+   "channels": [
+    {
+     "name": "湖北综合",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-zong-he-4.ctv",
+      "http://192.168.31.140:8787/live/hubei?id=433"
+     ]
+    },
+    {
+     "name": "湖北经视",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8",
+      "http://192.168.31.140:8787/live/hubei?id=432"
+     ]
+    },
+    {
+     "name": "湖北生活",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-sheng-huo-2.m3u8",
+      "http://192.168.31.140:8787/live/hubei?id=436"
+     ]
+    },
+    {
+     "name": "湖北教育",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-jiao-yu-4.ctv",
+      "http://192.168.31.140:8787/live/hubei?id=437"
+     ]
+    },
+    {
+     "name": "湖北影视",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-ying-shi-10.m3u8",
+      "http://192.168.31.140:8787/live/hubei?id=435"
+     ]
+    },
+    {
+     "name": "湖北公共",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8"
+     ]
+    },
+    {
+     "name": "湖北垄上",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-long-shang-15.m3u8",
+      "http://192.168.31.140:8787/live/hubei?id=438"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-湖南",
+   "channels": [
+    {
+     "name": "湖南经视",
+     "urls": [
+      "https://stream1.freetv.fun/hu-nan-jing-shi-6.m3u8",
+      "http://192.168.31.140:8787/live/hunan?id=280"
+     ]
+    },
+    {
+     "name": "湖南都市",
+     "urls": [
+      "https://stream1.freetv.fun/hu-nan-du-shi-6.m3u8",
+      "http://192.168.31.140:8787/live/hunan?id=346"
+     ]
+    },
+    {
+     "name": "湖南娱乐",
+     "urls": [
+      "https://stream1.freetv.fun/hu-nan-yu-le-6.m3u8",
+      "http://php.jdshipin.com/TVOD/iptv.php?id=hnyl",
+      "http://192.168.31.140:8787/live/hunan?id=344"
+     ]
+    },
+    {
+     "name": "湖南公共",
+     "urls": [
+      "http://php.jdshipin.com/TVOD/iptv.php?id=hngg"
+     ]
+    },
+    {
+     "name": "金鹰卡通",
+     "urls": [
+      "http://192.168.31.140:8787/live/hunan?id=267"
+     ]
+    },
+    {
+     "name": "湖南电影",
+     "urls": [
+      "http://192.168.31.140:8787/live/hunan?id=221"
+     ]
+    },
+    {
+     "name": "湖南电视剧",
+     "urls": [
+      "http://192.168.31.140:8787/live/hunan?id=484"
+     ]
+    },
+    {
+     "name": "湖南爱晚",
+     "urls": [
+      "http://192.168.31.140:8787/live/hunan?id=261"
+     ]
     },
     {
      "name": "快乐垂钓",
@@ -2161,6 +1825,134 @@
      "name": "长沙政法",
      "urls": [
       "http://192.168.31.140:8787/live/hunan?id=254"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-福建",
+   "channels": [
+    {
+     "name": "福建综合",
+     "urls": [
+      "https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=75c082a51786512041"
+     ]
+    },
+    {
+     "name": "福建新闻",
+     "urls": [
+      "http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "福建经济",
+     "urls": [
+      "http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-贵州",
+   "channels": [
+    {
+     "name": "贵州公共",
+     "urls": [
+      "http://183.11.239.36:808/hls/85/index.m3u8",
+      "https://live.gzstv.com/live/ch02.m3u8"
+     ]
+    },
+    {
+     "name": "贵州影视文艺",
+     "urls": [
+      "https://live.gzstv.com/live/ch03.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-重庆",
+   "channels": [
+    {
+     "name": "重庆新闻",
+     "urls": [
+      "https://sjlivecdn.cbg.cn/202608120943/2e4ec66812c10009267f83d0d79493da/app_2/_definst_/ls_3.stream/chunklist.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-陕西",
+   "channels": [
+    {
+     "name": "陕西新闻资讯",
+     "urls": [
+      "http://112.46.105.20:8009/hls/18/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西都市青春",
+     "urls": [
+      "http://112.46.105.20:8009/hls/19/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西银龄",
+     "urls": [
+      "http://112.46.105.20:8009/hls/20/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西秦腔",
+     "urls": [
+      "http://112.46.105.20:8009/hls/22/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西公共",
+     "urls": [
+      "http://ls.qingting.fm/live/1222.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-黑龙江",
+   "channels": [
+    {
+     "name": "都市频道",
+     "urls": [
+      "https://idclive.hljtv.com:4430/live/dushi_hd.m3u8"
+     ]
+    },
+    {
+     "name": "影视频道",
+     "urls": [
+      "https://idclive.hljtv.com:4430/live/hljys_hd.m3u8"
+     ]
+    },
+    {
+     "name": "文体频道",
+     "urls": [
+      "https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8"
+     ]
+    },
+    {
+     "name": "农业科教",
+     "urls": [
+      "https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8"
+     ]
+    },
+    {
+     "name": "新闻法治",
+     "urls": [
+      "https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8"
+     ]
+    },
+    {
+     "name": "少儿频道",
+     "urls": [
+      "https://idclive.hljtv.com:4430/live/hljse_hd.m3u8"
      ]
     }
    ]
