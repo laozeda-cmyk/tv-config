@@ -3119,451 +3119,451 @@
     {
      "name": "江苏卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjswspro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjswspro.m3u8"
      ]
     },
     {
      "name": "江苏卫视4K超高清",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2F4klive%2Fjsws4kpro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2F4klive%2Fjsws4kpro.m3u8"
      ]
     },
     {
      "name": "江苏城市",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjscspro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjscspro.m3u8"
      ]
     },
     {
      "name": "江苏综艺",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjszypro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjszypro.m3u8"
      ]
     },
     {
      "name": "江苏影视",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsyspro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsyspro.m3u8"
      ]
     },
     {
      "name": "江苏新闻",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsxwpro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsxwpro.m3u8"
      ]
     },
     {
      "name": "江苏教育",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsjypro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsjypro.m3u8"
      ]
     },
     {
      "name": "体育休闲",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsxxpro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsxxpro.m3u8"
      ]
     },
     {
      "name": "优漫卡通",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fymktpro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fymktpro.m3u8"
      ]
     },
     {
      "name": "江苏国际",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsgjpro.m3u8"
+      "http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsgjpro.m3u8"
      ]
     },
     {
      "name": "江西卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv1"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv1"
      ]
     },
     {
      "name": "都市频道",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv2"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv2"
      ]
     },
     {
      "name": "经济生活频道",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv3"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv3"
      ]
     },
     {
      "name": "公共·农业频道",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv5"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv5"
      ]
     },
     {
      "name": "少儿频道",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv6"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv6"
      ]
     },
     {
      "name": "新闻频道",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv7"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv7"
      ]
     },
     {
      "name": "移动电视频道",
      "urls": [
-      "http://127.0.0.1:8787/live/jiangxi?id=jxtv8"
+      "http://192.168.31.140:8787/live/jiangxi?id=jxtv8"
      ]
     },
     {
      "name": "浙江卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=01"
+      "http://192.168.31.140:8787/live/zhejiang?code=01"
      ]
     },
     {
      "name": "钱江都市",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=02"
+      "http://192.168.31.140:8787/live/zhejiang?code=02"
      ]
     },
     {
      "name": "经济生活",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=03"
+      "http://192.168.31.140:8787/live/zhejiang?code=03"
      ]
     },
     {
      "name": "教科影视",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=04"
+      "http://192.168.31.140:8787/live/zhejiang?code=04"
      ]
     },
     {
      "name": "民生休闲",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=06"
+      "http://192.168.31.140:8787/live/zhejiang?code=06"
      ]
     },
     {
      "name": "新闻",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=07"
+      "http://192.168.31.140:8787/live/zhejiang?code=07"
      ]
     },
     {
      "name": "少儿频道",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=08"
+      "http://192.168.31.140:8787/live/zhejiang?code=08"
      ]
     },
     {
      "name": "浙江国际",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=10"
+      "http://192.168.31.140:8787/live/zhejiang?code=10"
      ]
     },
     {
      "name": "好易购",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=11"
+      "http://192.168.31.140:8787/live/zhejiang?code=11"
      ]
     },
     {
      "name": "之江纪录",
      "urls": [
-      "http://127.0.0.1:8787/live/zhejiang?code=12"
+      "http://192.168.31.140:8787/live/zhejiang?code=12"
      ]
     },
     {
      "name": "湖北卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=431"
+      "http://192.168.31.140:8787/live/hubei?id=431"
      ]
     },
     {
      "name": "湖北经视",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=432"
+      "http://192.168.31.140:8787/live/hubei?id=432"
      ]
     },
     {
      "name": "湖北综合",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=433"
+      "http://192.168.31.140:8787/live/hubei?id=433"
      ]
     },
     {
      "name": "湖北影视",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=435"
+      "http://192.168.31.140:8787/live/hubei?id=435"
      ]
     },
     {
      "name": "湖北生活",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=436"
+      "http://192.168.31.140:8787/live/hubei?id=436"
      ]
     },
     {
      "name": "湖北教育",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=437"
+      "http://192.168.31.140:8787/live/hubei?id=437"
      ]
     },
     {
      "name": "湖北垄上",
      "urls": [
-      "http://127.0.0.1:8787/live/hubei?id=438"
+      "http://192.168.31.140:8787/live/hubei?id=438"
      ]
     },
     {
      "name": "湖南卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=287"
+      "http://192.168.31.140:8787/live/hunan?id=287"
      ]
     },
     {
      "name": "金鹰卡通",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=267"
+      "http://192.168.31.140:8787/live/hunan?id=267"
      ]
     },
     {
      "name": "湖南经视",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=280"
+      "http://192.168.31.140:8787/live/hunan?id=280"
      ]
     },
     {
      "name": "湖南娱乐",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=344"
+      "http://192.168.31.140:8787/live/hunan?id=344"
      ]
     },
     {
      "name": "湖南电影",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=221"
+      "http://192.168.31.140:8787/live/hunan?id=221"
      ]
     },
     {
      "name": "湖南都市",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=346"
+      "http://192.168.31.140:8787/live/hunan?id=346"
      ]
     },
     {
      "name": "湖南电视剧",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=484"
+      "http://192.168.31.140:8787/live/hunan?id=484"
      ]
     },
     {
      "name": "湖南爱晚",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=261"
+      "http://192.168.31.140:8787/live/hunan?id=261"
      ]
     },
     {
      "name": "东方卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=1"
+      "http://192.168.31.140:8787/live/shanghai?id=1"
      ]
     },
     {
      "name": "魔都眼",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=11"
+      "http://192.168.31.140:8787/live/shanghai?id=11"
      ]
     },
     {
      "name": "第一财经",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=5"
+      "http://192.168.31.140:8787/live/shanghai?id=5"
      ]
     },
     {
      "name": "新纪实",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=12"
+      "http://192.168.31.140:8787/live/shanghai?id=12"
      ]
     },
     {
      "name": "五星体育",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=10"
+      "http://192.168.31.140:8787/live/shanghai?id=10"
      ]
     },
     {
      "name": "都市频道",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=4"
+      "http://192.168.31.140:8787/live/shanghai?id=4"
      ]
     },
     {
      "name": "哈哈炫动",
      "urls": [
-      "http://127.0.0.1:8787/live/shanghai?id=9"
+      "http://192.168.31.140:8787/live/shanghai?id=9"
      ]
     },
     {
      "name": "三沙卫视",
      "urls": [
-      "http://127.0.0.1:8787/live/hainan?id=STHaiNan_channel_ssws"
+      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_ssws"
      ]
     },
     {
      "name": "海南自贸",
      "urls": [
-      "http://127.0.0.1:8787/live/hainan?id=jjpd"
+      "http://192.168.31.140:8787/live/hainan?id=jjpd"
      ]
     },
     {
      "name": "海南新闻",
      "urls": [
-      "http://127.0.0.1:8787/live/hainan?id=STHaiNan_channel_xwpd"
+      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_xwpd"
      ]
     },
     {
      "name": "海南社会与法",
      "urls": [
-      "http://127.0.0.1:8787/live/hainan?id=ggpd"
+      "http://192.168.31.140:8787/live/hainan?id=ggpd"
      ]
     },
     {
      "name": "海南文旅",
      "urls": [
-      "http://127.0.0.1:8787/live/hainan?id=wlpd"
+      "http://192.168.31.140:8787/live/hainan?id=wlpd"
      ]
     },
     {
      "name": "海南少儿",
      "urls": [
-      "http://127.0.0.1:8787/live/hainan?id=sepd"
+      "http://192.168.31.140:8787/live/hainan?id=sepd"
      ]
     },
     {
      "name": "云南都市",
      "urls": [
-      "http://127.0.0.1:8787/live/yunnan?id=yunnandushi"
+      "http://192.168.31.140:8787/live/yunnan?id=yunnandushi"
      ]
     },
     {
      "name": "康旅频道",
      "urls": [
-      "http://127.0.0.1:8787/live/yunnan?id=yunnangonggong"
+      "http://192.168.31.140:8787/live/yunnan?id=yunnangonggong"
      ]
     },
     {
      "name": "澜湄国际",
      "urls": [
-      "http://127.0.0.1:8787/live/yunnan?id=yunnanguoji"
+      "http://192.168.31.140:8787/live/yunnan?id=yunnanguoji"
      ]
     },
     {
      "name": "影视频道",
      "urls": [
-      "http://127.0.0.1:8787/live/haerbin?id=5"
+      "http://192.168.31.140:8787/live/haerbin?id=5"
      ]
     },
     {
      "name": "新闻综合",
      "urls": [
-      "http://127.0.0.1:8787/live/haerbin?id=3"
+      "http://192.168.31.140:8787/live/haerbin?id=3"
      ]
     },
     {
      "name": "生活频道",
      "urls": [
-      "http://127.0.0.1:8787/live/haerbin?id=7"
+      "http://192.168.31.140:8787/live/haerbin?id=7"
      ]
     },
     {
      "name": "新闻综合",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=49VAfrw"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw"
      ]
     },
     {
      "name": "经济生活",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=u8BmT6h"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h"
      ]
     },
     {
      "name": "社教法制",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=phsry3e"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e"
      ]
     },
     {
      "name": "影视",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=J4EX72D"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=J4EX72D"
      ]
     },
     {
      "name": "文体",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=rk8Z088"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=rk8Z088"
      ]
     },
     {
      "name": "城市生活",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=i88rmGU"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU"
      ]
     },
     {
      "name": "太原教育",
      "urls": [
-      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=g4XtSCF"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=g4XtSCF"
      ]
     },
     {
      "name": "NBTV-1",
      "urls": [
-      "http://127.0.0.1:8787/live/ningbo?id=nbtv1_md"
+      "http://192.168.31.140:8787/live/ningbo?id=nbtv1_md"
      ]
     },
     {
      "name": "NBTV-2",
      "urls": [
-      "http://127.0.0.1:8787/live/ningbo?id=nbtv2_md"
+      "http://192.168.31.140:8787/live/ningbo?id=nbtv2_md"
      ]
     },
     {
      "name": "NBTV-3",
      "urls": [
-      "http://127.0.0.1:8787/live/ningbo?id=nbtv3_md"
+      "http://192.168.31.140:8787/live/ningbo?id=nbtv3_md"
      ]
     },
     {
      "name": "NBTV-4",
      "urls": [
-      "http://127.0.0.1:8787/live/ningbo?id=nbtv4_md"
+      "http://192.168.31.140:8787/live/ningbo?id=nbtv4_md"
      ]
     },
     {
      "name": "快乐垂钓",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=218"
+      "http://192.168.31.140:8787/live/hunan?id=218"
      ]
     },
     {
      "name": "长沙新闻综合",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=269"
+      "http://192.168.31.140:8787/live/hunan?id=269"
      ]
     },
     {
      "name": "长沙政法",
      "urls": [
-      "http://127.0.0.1:8787/live/hunan?id=254"
+      "http://192.168.31.140:8787/live/hunan?id=254"
      ]
     }
    ]
