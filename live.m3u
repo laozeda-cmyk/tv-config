@@ -497,28 +497,6 @@ http://192.168.31.140:8787/live/haerbin?id=3
 http://stream.hrbtv.net/shpd/playlist.m3u8?_upt=d99e31611786506240
 #EXTINF:-1 group-title="地方频道-哈尔滨",生活频道
 http://192.168.31.140:8787/live/haerbin?id=7
-#EXTINF:-1 group-title="地方频道-地方",新闻综合
-https://tytv-hls.sxtygdy.com/49VAfrw/500/w7oe9gA.m3u8
-#EXTINF:-1 group-title="地方频道-地方",经济生活
-https://tytv-hls.sxtygdy.com/u8BmT6h/500/t5rg8gm.m3u8
-#EXTINF:-1 group-title="地方频道-地方",社教法制
-https://tytv-hls.sxtygdy.com/phsry3e/500/b29khgr.m3u8
-#EXTINF:-1 group-title="地方频道-地方",城市生活
-https://tytv-hls.sxtygdy.com/i88rmGU/500/g54h8gr.m3u8
-#EXTINF:-1 group-title="地方频道-地方",太原教育
-https://tytv-hls.sxtygdy.com/g4XtSCF/500/k50h4gt.m3u8
-#EXTINF:-1 group-title="地方频道-地方",剑阁综合
-https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-#EXTINF:-1 group-title="地方频道-地方",雅安新闻综合
-https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-#EXTINF:-1 group-title="地方频道-地方",黑水新闻综合
-http://live.schstv.com:90/live/xwzh.m3u8
-#EXTINF:-1 group-title="地方频道-地方",夹江新闻综合
-https://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
-#EXTINF:-1 group-title="地方频道-地方",吉安综合
-https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
-#EXTINF:-1 group-title="地方频道-地方",吉安公共
-https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 #EXTINF:-1 group-title="地方频道-山东",齐鲁频道
 https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=f730d69c857f0e39ea54e60a40e77c4f&t=1786500236
 #EXTINF:-1 group-title="地方频道-山东",综艺频道
@@ -533,14 +511,24 @@ https://tstreamlive302.iqilu.com/291/d9c0aba79a944b41a7f4f1ac422d9808/playlist.m
 https://tstreamlive302.iqilu.com/291/71637943d1f841c78edd6abfa120bee2/playlist.m3u8?k=ebc4cc2915d5fb173ad622a721d041f3&t=1786500237
 #EXTINF:-1 group-title="地方频道-山西",新闻综合
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw
+#EXTINF:-1 group-title="地方频道-山西",新闻综合
+https://tytv-hls.sxtygdy.com/49VAfrw/500/w7oe9gA.m3u8
 #EXTINF:-1 group-title="地方频道-山西",经济生活
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h
+#EXTINF:-1 group-title="地方频道-山西",经济生活
+https://tytv-hls.sxtygdy.com/u8BmT6h/500/t5rg8gm.m3u8
 #EXTINF:-1 group-title="地方频道-山西",社教法制
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e
+#EXTINF:-1 group-title="地方频道-山西",社教法制
+https://tytv-hls.sxtygdy.com/phsry3e/500/b29khgr.m3u8
 #EXTINF:-1 group-title="地方频道-山西",城市生活
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU
+#EXTINF:-1 group-title="地方频道-山西",城市生活
+https://tytv-hls.sxtygdy.com/i88rmGU/500/g54h8gr.m3u8
 #EXTINF:-1 group-title="地方频道-山西",太原教育
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=g4XtSCF
+#EXTINF:-1 group-title="地方频道-山西",太原教育
+https://tytv-hls.sxtygdy.com/g4XtSCF/500/k50h4gt.m3u8
 #EXTINF:-1 group-title="地方频道-广东",广东珠江
 http://183.11.239.36:808/hls/83/index.m3u8
 #EXTINF:-1 group-title="地方频道-广东",广东珠江
@@ -727,3 +715,15 @@ https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 #EXTINF:-1 group-title="地方频道-黑龙江",少儿频道
 https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+#EXTINF:-1 group-title="地方频道-四川",剑阁综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 group-title="地方频道-四川",雅安新闻综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 group-title="地方频道-四川",黑水新闻综合
+http://live.schstv.com:90/live/xwzh.m3u8
+#EXTINF:-1 group-title="地方频道-四川",夹江新闻综合
+https://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
+#EXTINF:-1 group-title="地方频道-江西",吉安综合
+https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
+#EXTINF:-1 group-title="地方频道-江西",吉安公共
+https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8

@@ -2479,77 +2479,6 @@
    ]
   },
   {
-   "group": "地方频道-地方",
-   "channels": [
-    {
-     "name": "新闻综合",
-     "urls": [
-      "https://tytv-hls.sxtygdy.com/49VAfrw/500/w7oe9gA.m3u8"
-     ]
-    },
-    {
-     "name": "经济生活",
-     "urls": [
-      "https://tytv-hls.sxtygdy.com/u8BmT6h/500/t5rg8gm.m3u8"
-     ]
-    },
-    {
-     "name": "社教法制",
-     "urls": [
-      "https://tytv-hls.sxtygdy.com/phsry3e/500/b29khgr.m3u8"
-     ]
-    },
-    {
-     "name": "城市生活",
-     "urls": [
-      "https://tytv-hls.sxtygdy.com/i88rmGU/500/g54h8gr.m3u8"
-     ]
-    },
-    {
-     "name": "太原教育",
-     "urls": [
-      "https://tytv-hls.sxtygdy.com/g4XtSCF/500/k50h4gt.m3u8"
-     ]
-    },
-    {
-     "name": "剑阁综合",
-     "urls": [
-      "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "雅安新闻综合",
-     "urls": [
-      "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "黑水新闻综合",
-     "urls": [
-      "http://live.schstv.com:90/live/xwzh.m3u8"
-     ]
-    },
-    {
-     "name": "夹江新闻综合",
-     "urls": [
-      "https://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8"
-     ]
-    },
-    {
-     "name": "吉安综合",
-     "urls": [
-      "https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8"
-     ]
-    },
-    {
-     "name": "吉安公共",
-     "urls": [
-      "https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8"
-     ]
-    }
-   ]
-  },
-  {
    "group": "地方频道-山东",
    "channels": [
     {
@@ -2596,31 +2525,36 @@
     {
      "name": "新闻综合",
      "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw",
+      "https://tytv-hls.sxtygdy.com/49VAfrw/500/w7oe9gA.m3u8"
      ]
     },
     {
      "name": "经济生活",
      "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h",
+      "https://tytv-hls.sxtygdy.com/u8BmT6h/500/t5rg8gm.m3u8"
      ]
     },
     {
      "name": "社教法制",
      "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e",
+      "https://tytv-hls.sxtygdy.com/phsry3e/500/b29khgr.m3u8"
      ]
     },
     {
      "name": "城市生活",
      "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU",
+      "https://tytv-hls.sxtygdy.com/i88rmGU/500/g54h8gr.m3u8"
      ]
     },
     {
      "name": "太原教育",
      "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=g4XtSCF"
+      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=g4XtSCF",
+      "https://tytv-hls.sxtygdy.com/g4XtSCF/500/k50h4gt.m3u8"
      ]
     }
    ]
@@ -3129,6 +3063,52 @@
      "name": "少儿频道",
      "urls": [
       "https://idclive.hljtv.com:4430/live/hljse_hd.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-四川",
+   "channels": [
+    {
+     "name": "剑阁综合",
+     "urls": [
+      "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "雅安新闻综合",
+     "urls": [
+      "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8"
+     ]
+    },
+    {
+     "name": "黑水新闻综合",
+     "urls": [
+      "http://live.schstv.com:90/live/xwzh.m3u8"
+     ]
+    },
+    {
+     "name": "夹江新闻综合",
+     "urls": [
+      "https://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "地方频道-江西",
+   "channels": [
+    {
+     "name": "吉安综合",
+     "urls": [
+      "https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8"
+     ]
+    },
+    {
+     "name": "吉安公共",
+     "urls": [
+      "https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8"
      ]
     }
    ]
