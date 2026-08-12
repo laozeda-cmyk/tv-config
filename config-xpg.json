@@ -2905,6 +2905,668 @@
      ]
     }
    ]
+  },
+  {
+   "group": "江苏频道",
+   "channels": [
+    {
+     "name": "江苏卫视",
+     "urls": [
+      "http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8",
+      "http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "江西频道",
+   "channels": [
+    {
+     "name": "江西卫视",
+     "urls": [
+      "http://61.136.172.236:9901/tsfile/live/0138_1.m3u8",
+      "http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "江西都市",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8"
+     ]
+    },
+    {
+     "name": "江西经济生活",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8"
+     ]
+    },
+    {
+     "name": "江西公共农业",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8"
+     ]
+    },
+    {
+     "name": "江西新闻",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8"
+     ]
+    },
+    {
+     "name": "江西移动电视",
+     "urls": [
+      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "湖北频道",
+   "channels": [
+    {
+     "name": "湖北卫视",
+     "urls": [
+      "http://58.56.162.102:4466/newlive/live/hls/36/live.m3u8",
+      "http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub"
+     ]
+    },
+    {
+     "name": "湖北综合",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-zong-he-4.ctv"
+     ]
+    },
+    {
+     "name": "湖北经视",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8"
+     ]
+    },
+    {
+     "name": "湖北生活",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-sheng-huo-2.m3u8"
+     ]
+    },
+    {
+     "name": "湖北教育",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-jiao-yu-4.ctv"
+     ]
+    },
+    {
+     "name": "湖北影视",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-ying-shi-10.m3u8"
+     ]
+    },
+    {
+     "name": "湖北公共",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8"
+     ]
+    },
+    {
+     "name": "湖北垄上",
+     "urls": [
+      "https://stream1.freetv.fun/hu-bei-long-shang-15.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "内蒙古频道",
+   "channels": [
+    {
+     "name": "内蒙古卫视",
+     "urls": [
+      "http://222.134.245.16:9901/tsfile/live/0109_1.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古蒙语",
+     "urls": [
+      "http://live2.m2oplus.nmtv.cn/01/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古新闻综合",
+     "urls": [
+      "http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古文体娱乐",
+     "urls": [
+      "http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古经济生活",
+     "urls": [
+      "http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古农牧",
+     "urls": [
+      "http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8"
+     ]
+    },
+    {
+     "name": "内蒙古文化",
+     "urls": [
+      "http://live4.m2oplus.nmtv.cn/04/hd/live.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "上海频道",
+   "channels": [
+    {
+     "name": "上海卫视",
+     "urls": [
+      "http://112.27.235.94:8000/hls/28/index.m3u8"
+     ]
+    },
+    {
+     "name": "上海第一财经",
+     "urls": [
+      "https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "陕西频道",
+   "channels": [
+    {
+     "name": "陕西新闻资讯",
+     "urls": [
+      "http://112.46.105.20:8009/hls/18/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西都市青春",
+     "urls": [
+      "http://112.46.105.20:8009/hls/19/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西银龄",
+     "urls": [
+      "http://112.46.105.20:8009/hls/20/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西秦腔",
+     "urls": [
+      "http://112.46.105.20:8009/hls/22/index.m3u8"
+     ]
+    },
+    {
+     "name": "陕西公共",
+     "urls": [
+      "http://ls.qingting.fm/live/1222.m3u8"
+     ]
+    }
+   ]
+  },
+  {
+   "group": "我的电视",
+   "channels": [
+    {
+     "name": "江苏卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjswspro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏卫视4K超高清",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2F4klive%2Fjsws4kpro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏城市",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjscspro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏综艺",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjszypro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏影视",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsyspro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏新闻",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsxwpro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏教育",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsjypro.m3u8"
+     ]
+    },
+    {
+     "name": "体育休闲",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsxxpro.m3u8"
+     ]
+    },
+    {
+     "name": "优漫卡通",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fymktpro.m3u8"
+     ]
+    },
+    {
+     "name": "江苏国际",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsgjpro.m3u8"
+     ]
+    },
+    {
+     "name": "江西卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv1"
+     ]
+    },
+    {
+     "name": "都市频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv2"
+     ]
+    },
+    {
+     "name": "经济生活频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv3"
+     ]
+    },
+    {
+     "name": "公共·农业频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv5"
+     ]
+    },
+    {
+     "name": "少儿频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv6"
+     ]
+    },
+    {
+     "name": "新闻频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv7"
+     ]
+    },
+    {
+     "name": "移动电视频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/jiangxi?id=jxtv8"
+     ]
+    },
+    {
+     "name": "浙江卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=01"
+     ]
+    },
+    {
+     "name": "钱江都市",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=02"
+     ]
+    },
+    {
+     "name": "经济生活",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=03"
+     ]
+    },
+    {
+     "name": "教科影视",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=04"
+     ]
+    },
+    {
+     "name": "民生休闲",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=06"
+     ]
+    },
+    {
+     "name": "新闻",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=07"
+     ]
+    },
+    {
+     "name": "少儿频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=08"
+     ]
+    },
+    {
+     "name": "浙江国际",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=10"
+     ]
+    },
+    {
+     "name": "好易购",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=11"
+     ]
+    },
+    {
+     "name": "之江纪录",
+     "urls": [
+      "http://127.0.0.1:8787/live/zhejiang?code=12"
+     ]
+    },
+    {
+     "name": "湖北卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=431"
+     ]
+    },
+    {
+     "name": "湖北经视",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=432"
+     ]
+    },
+    {
+     "name": "湖北综合",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=433"
+     ]
+    },
+    {
+     "name": "湖北影视",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=435"
+     ]
+    },
+    {
+     "name": "湖北生活",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=436"
+     ]
+    },
+    {
+     "name": "湖北教育",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=437"
+     ]
+    },
+    {
+     "name": "湖北垄上",
+     "urls": [
+      "http://127.0.0.1:8787/live/hubei?id=438"
+     ]
+    },
+    {
+     "name": "湖南卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=287"
+     ]
+    },
+    {
+     "name": "金鹰卡通",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=267"
+     ]
+    },
+    {
+     "name": "湖南经视",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=280"
+     ]
+    },
+    {
+     "name": "湖南娱乐",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=344"
+     ]
+    },
+    {
+     "name": "湖南电影",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=221"
+     ]
+    },
+    {
+     "name": "湖南都市",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=346"
+     ]
+    },
+    {
+     "name": "湖南电视剧",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=484"
+     ]
+    },
+    {
+     "name": "湖南爱晚",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=261"
+     ]
+    },
+    {
+     "name": "东方卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=1"
+     ]
+    },
+    {
+     "name": "魔都眼",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=11"
+     ]
+    },
+    {
+     "name": "第一财经",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=5"
+     ]
+    },
+    {
+     "name": "新纪实",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=12"
+     ]
+    },
+    {
+     "name": "五星体育",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=10"
+     ]
+    },
+    {
+     "name": "都市频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=4"
+     ]
+    },
+    {
+     "name": "哈哈炫动",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanghai?id=9"
+     ]
+    },
+    {
+     "name": "三沙卫视",
+     "urls": [
+      "http://127.0.0.1:8787/live/hainan?id=STHaiNan_channel_ssws"
+     ]
+    },
+    {
+     "name": "海南自贸",
+     "urls": [
+      "http://127.0.0.1:8787/live/hainan?id=jjpd"
+     ]
+    },
+    {
+     "name": "海南新闻",
+     "urls": [
+      "http://127.0.0.1:8787/live/hainan?id=STHaiNan_channel_xwpd"
+     ]
+    },
+    {
+     "name": "海南社会与法",
+     "urls": [
+      "http://127.0.0.1:8787/live/hainan?id=ggpd"
+     ]
+    },
+    {
+     "name": "海南文旅",
+     "urls": [
+      "http://127.0.0.1:8787/live/hainan?id=wlpd"
+     ]
+    },
+    {
+     "name": "海南少儿",
+     "urls": [
+      "http://127.0.0.1:8787/live/hainan?id=sepd"
+     ]
+    },
+    {
+     "name": "云南都市",
+     "urls": [
+      "http://127.0.0.1:8787/live/yunnan?id=yunnandushi"
+     ]
+    },
+    {
+     "name": "康旅频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/yunnan?id=yunnangonggong"
+     ]
+    },
+    {
+     "name": "澜湄国际",
+     "urls": [
+      "http://127.0.0.1:8787/live/yunnan?id=yunnanguoji"
+     ]
+    },
+    {
+     "name": "影视频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/haerbin?id=5"
+     ]
+    },
+    {
+     "name": "新闻综合",
+     "urls": [
+      "http://127.0.0.1:8787/live/haerbin?id=3"
+     ]
+    },
+    {
+     "name": "生活频道",
+     "urls": [
+      "http://127.0.0.1:8787/live/haerbin?id=7"
+     ]
+    },
+    {
+     "name": "新闻综合",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=49VAfrw"
+     ]
+    },
+    {
+     "name": "经济生活",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=u8BmT6h"
+     ]
+    },
+    {
+     "name": "社教法制",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=phsry3e"
+     ]
+    },
+    {
+     "name": "影视",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=J4EX72D"
+     ]
+    },
+    {
+     "name": "文体",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=rk8Z088"
+     ]
+    },
+    {
+     "name": "城市生活",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=i88rmGU"
+     ]
+    },
+    {
+     "name": "太原教育",
+     "urls": [
+      "http://127.0.0.1:8787/live/shanxi_taiyuan?id=g4XtSCF"
+     ]
+    },
+    {
+     "name": "NBTV-1",
+     "urls": [
+      "http://127.0.0.1:8787/live/ningbo?id=nbtv1_md"
+     ]
+    },
+    {
+     "name": "NBTV-2",
+     "urls": [
+      "http://127.0.0.1:8787/live/ningbo?id=nbtv2_md"
+     ]
+    },
+    {
+     "name": "NBTV-3",
+     "urls": [
+      "http://127.0.0.1:8787/live/ningbo?id=nbtv3_md"
+     ]
+    },
+    {
+     "name": "NBTV-4",
+     "urls": [
+      "http://127.0.0.1:8787/live/ningbo?id=nbtv4_md"
+     ]
+    },
+    {
+     "name": "快乐垂钓",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=218"
+     ]
+    },
+    {
+     "name": "长沙新闻综合",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=269"
+     ]
+    },
+    {
+     "name": "长沙政法",
+     "urls": [
+      "http://127.0.0.1:8787/live/hunan?id=254"
+     ]
+    }
+   ]
   }
  ],
  "parses": [
