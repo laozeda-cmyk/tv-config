@@ -921,65 +921,6 @@
      "urls": [
       "https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8"
      ]
-    },
-    {
-     "name": "魔都眼",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=11"
-     ]
-    },
-    {
-     "name": "第一财经",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=5"
-     ]
-    },
-    {
-     "name": "新纪实",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=12"
-     ]
-    },
-    {
-     "name": "五星体育",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=10"
-     ]
-    },
-    {
-     "name": "都市频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=4"
-     ]
-    },
-    {
-     "name": "哈哈炫动",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanghai?id=9"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "地方频道-云南",
-   "channels": [
-    {
-     "name": "云南都市",
-     "urls": [
-      "http://192.168.31.140:8787/live/yunnan?id=yunnandushi"
-     ]
-    },
-    {
-     "name": "康旅频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/yunnan?id=yunnangonggong"
-     ]
-    },
-    {
-     "name": "澜湄国际",
-     "urls": [
-      "http://192.168.31.140:8787/live/yunnan?id=yunnanguoji"
-     ]
     }
    ]
   },
@@ -987,39 +928,123 @@
    "group": "地方频道-内蒙古",
    "channels": [
     {
-     "name": "内蒙古蒙语",
+     "name": "内蒙古卫视",
      "urls": [
-      "http://live2.m2oplus.nmtv.cn/01/hd/live.m3u8"
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86"
      ]
     },
     {
-     "name": "内蒙古新闻综合",
+     "name": "内蒙古蒙古语卫视",
      "urls": [
-      "http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8"
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E5%8F%A4%E8%AF%AD%E5%8D%AB%E8%A7%86"
      ]
     },
     {
-     "name": "内蒙古文体娱乐",
+     "name": "新闻综合",
      "urls": [
-      "http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8"
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88"
      ]
     },
     {
-     "name": "内蒙古经济生活",
+     "name": "经济生活",
      "urls": [
-      "http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8"
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB"
      ]
     },
     {
-     "name": "内蒙古农牧",
+     "name": "少儿频道",
      "urls": [
-      "http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8"
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93"
      ]
     },
     {
-     "name": "内蒙古文化",
+     "name": "文体娱乐",
      "urls": [
-      "http://live4.m2oplus.nmtv.cn/04/hd/live.m3u8"
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90"
+     ]
+    },
+    {
+     "name": "农牧频道",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%9C%E7%89%A7%E9%A2%91%E9%81%93"
+     ]
+    },
+    {
+     "name": "内蒙古蒙古语文化频道",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E5%8F%A4%E8%AF%AD%E6%96%87%E5%8C%96%E9%A2%91%E9%81%93"
+     ]
+    },
+    {
+     "name": "呼和浩特",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9"
+     ]
+    },
+    {
+     "name": "包头",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%8C%85%E5%A4%B4"
+     ]
+    },
+    {
+     "name": "乌海",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E4%B9%8C%E6%B5%B7"
+     ]
+    },
+    {
+     "name": "赤峰",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E8%B5%A4%E5%B3%B0"
+     ]
+    },
+    {
+     "name": "呼伦贝尔",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94"
+     ]
+    },
+    {
+     "name": "兴安盟",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%85%B4%E5%AE%89%E7%9B%9F"
+     ]
+    },
+    {
+     "name": "通辽",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E9%80%9A%E8%BE%BD"
+     ]
+    },
+    {
+     "name": "锡林郭勒",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92"
+     ]
+    },
+    {
+     "name": "乌兰察布",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83"
+     ]
+    },
+    {
+     "name": "鄂尔多斯",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF"
+     ]
+    },
+    {
+     "name": "巴彦淖尔",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94"
+     ]
+    },
+    {
+     "name": "阿拉善",
+     "urls": [
+      "http://192.168.31.140:8787/live/neimenggu?channelName=%E9%98%BF%E6%8B%89%E5%96%84"
      ]
     }
    ]
@@ -1122,41 +1147,6 @@
    ]
   },
   {
-   "group": "地方频道-安徽",
-   "channels": [
-    {
-     "name": "综艺体育",
-     "urls": [
-      "https://live5.ahtv.cn/zyty1/playlist.m3u8?_upt=8e7ad7531786506067"
-     ]
-    },
-    {
-     "name": "安徽公共",
-     "urls": [
-      "https://live5.ahtv.cn/ahgg/playlist.m3u8?_upt=5f2cb8981786506067"
-     ]
-    },
-    {
-     "name": "农业·科教",
-     "urls": [
-      "https://live5.ahtv.cn/kjpd/playlist.m3u8?_upt=a8e1a3af1786506067"
-     ]
-    },
-    {
-     "name": "安徽国际",
-     "urls": [
-      "https://live5.ahtv.cn/ahgj1/playlist.m3u8?_upt=cd24f3931786506067"
-     ]
-    },
-    {
-     "name": "移动电视",
-     "urls": [
-      "https://live5.ahtv.cn/ydds1/playlist.m3u8?_upt=b88ebe5c1786506067"
-     ]
-    }
-   ]
-  },
-  {
    "group": "地方频道-山东",
    "channels": [
     {
@@ -1216,18 +1206,6 @@
      "name": "社教法制",
      "urls": [
       "http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e"
-     ]
-    },
-    {
-     "name": "影视",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=J4EX72D"
-     ]
-    },
-    {
-     "name": "文体",
-     "urls": [
-      "http://192.168.31.140:8787/live/shanxi_taiyuan?id=rk8Z088"
      ]
     },
     {
@@ -1381,144 +1359,8 @@
    ]
   },
   {
-   "group": "地方频道-江西",
-   "channels": [
-    {
-     "name": "江西都市",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8"
-     ]
-    },
-    {
-     "name": "江西经济生活",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8"
-     ]
-    },
-    {
-     "name": "江西公共农业",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8"
-     ]
-    },
-    {
-     "name": "江西新闻",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8"
-     ]
-    },
-    {
-     "name": "江西移动电视",
-     "urls": [
-      "http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8"
-     ]
-    },
-    {
-     "name": "都市频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv2"
-     ]
-    },
-    {
-     "name": "经济生活频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv3"
-     ]
-    },
-    {
-     "name": "公共·农业频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv5"
-     ]
-    },
-    {
-     "name": "少儿频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv6"
-     ]
-    },
-    {
-     "name": "新闻频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv7"
-     ]
-    },
-    {
-     "name": "移动电视频道",
-     "urls": [
-      "http://192.168.31.140:8787/live/jiangxi?id=jxtv8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "地方频道-河北",
-   "channels": [
-    {
-     "name": "经济生活",
-     "urls": [
-      "https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1786506232&k=b76041917144852ca87847727ec18f33"
-     ]
-    },
-    {
-     "name": "三农频道",
-     "urls": [
-      "https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1786506232&k=e0f50f2af3944bcaa5c46f81e3a01ade"
-     ]
-    },
-    {
-     "name": "河北都市",
-     "urls": [
-      "https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1786506232&k=b0ced586562d3c506ca08f3bc240c8f8"
-     ]
-    },
-    {
-     "name": "少儿科教",
-     "urls": [
-      "https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1786506232&k=f89ca850d76dbae0686482aebea45f29"
-     ]
-    },
-    {
-     "name": "三佳购物",
-     "urls": [
-      "https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=1786506232&k=d66680681d95c638b2bc9b5322838f26"
-     ]
-    }
-   ]
-  },
-  {
    "group": "地方频道-河南",
    "channels": [
-    {
-     "name": "新闻频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=854cba87a73c36cfc0480d02be71eba9&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "都市频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5afecf0e3fa8df0880b48863272a6d95&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "民生频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=44916063d051802caab9f5089dca6640&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "法治频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=37220fad0a172a65c43c95c38e6d0611&wsTime=1786513425"
-     ]
-    },
-    {
-     "name": "电视剧频道",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1fac1aad19ea406f07a6f02dd38830a9&wsTime=1786513425"
-     ]
-    },
     {
      "name": "梨园频道",
      "urls": [
@@ -1541,12 +1383,6 @@
      "name": "睛彩中原",
      "urls": [
       "https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=f78a4c58e05d31ba4f3554325aa7189d&wsTime=2101860501"
-     ]
-    },
-    {
-     "name": "欢腾购物",
-     "urls": [
-      "http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d9bcd806a65bcc08c2fb40237440d31f&wsTime=1786513425"
      ]
     }
    ]
@@ -1639,46 +1475,6 @@
      "name": "NBTV-4",
      "urls": [
       "http://192.168.31.140:8787/live/ningbo?id=nbtv4_md"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "地方频道-海南",
-   "channels": [
-    {
-     "name": "海南自贸",
-     "urls": [
-      "https://live2.hnntv.cn/srs/tv/jjpd.m3u8?_upt=f06f06cd1786506238",
-      "http://192.168.31.140:8787/live/hainan?id=jjpd"
-     ]
-    },
-    {
-     "name": "海南新闻",
-     "urls": [
-      "https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=97ab25591786506238",
-      "http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_xwpd"
-     ]
-    },
-    {
-     "name": "海南社会与法",
-     "urls": [
-      "https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=d5dc47e31786506238",
-      "http://192.168.31.140:8787/live/hainan?id=ggpd"
-     ]
-    },
-    {
-     "name": "海南文旅",
-     "urls": [
-      "https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=5b3ade091786506238",
-      "http://192.168.31.140:8787/live/hainan?id=wlpd"
-     ]
-    },
-    {
-     "name": "海南少儿",
-     "urls": [
-      "https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=d99eb32c1786506238",
-      "http://192.168.31.140:8787/live/hainan?id=sepd"
      ]
     }
    ]
@@ -1833,12 +1629,6 @@
    "group": "地方频道-福建",
    "channels": [
     {
-     "name": "福建综合",
-     "urls": [
-      "https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=75c082a51786512041"
-     ]
-    },
-    {
      "name": "福建新闻",
      "urls": [
       "http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8"
@@ -1860,23 +1650,6 @@
      "urls": [
       "http://183.11.239.36:808/hls/85/index.m3u8",
       "https://live.gzstv.com/live/ch02.m3u8"
-     ]
-    },
-    {
-     "name": "贵州影视文艺",
-     "urls": [
-      "https://live.gzstv.com/live/ch03.m3u8"
-     ]
-    }
-   ]
-  },
-  {
-   "group": "地方频道-重庆",
-   "channels": [
-    {
-     "name": "重庆新闻",
-     "urls": [
-      "https://sjlivecdn.cbg.cn/202608120943/2e4ec66812c10009267f83d0d79493da/app_2/_definst_/ls_3.stream/chunklist.m3u8"
      ]
     }
    ]

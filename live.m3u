@@ -445,36 +445,46 @@ http://112.27.235.94:8000/hls/28/index.m3u8
 http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2F4klive%2Fjsws4kpro.m3u8
 #EXTINF:-1 group-title="地方频道-上海",上海第一财经
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1 group-title="地方频道-上海",魔都眼
-http://192.168.31.140:8787/live/shanghai?id=11
-#EXTINF:-1 group-title="地方频道-上海",第一财经
-http://192.168.31.140:8787/live/shanghai?id=5
-#EXTINF:-1 group-title="地方频道-上海",新纪实
-http://192.168.31.140:8787/live/shanghai?id=12
-#EXTINF:-1 group-title="地方频道-上海",五星体育
-http://192.168.31.140:8787/live/shanghai?id=10
-#EXTINF:-1 group-title="地方频道-上海",都市频道
-http://192.168.31.140:8787/live/shanghai?id=4
-#EXTINF:-1 group-title="地方频道-上海",哈哈炫动
-http://192.168.31.140:8787/live/shanghai?id=9
-#EXTINF:-1 group-title="地方频道-云南",云南都市
-http://192.168.31.140:8787/live/yunnan?id=yunnandushi
-#EXTINF:-1 group-title="地方频道-云南",康旅频道
-http://192.168.31.140:8787/live/yunnan?id=yunnangonggong
-#EXTINF:-1 group-title="地方频道-云南",澜湄国际
-http://192.168.31.140:8787/live/yunnan?id=yunnanguoji
-#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古蒙语
-http://live2.m2oplus.nmtv.cn/01/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古新闻综合
-http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古文体娱乐
-http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古经济生活
-http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古农牧
-http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8
-#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古文化
-http://live4.m2oplus.nmtv.cn/04/hd/live.m3u8
+#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古卫视
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古蒙古语卫视
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E5%8F%A4%E8%AF%AD%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="地方频道-内蒙古",新闻综合
+http://192.168.31.140:8787/live/neimenggu?channelName=%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
+#EXTINF:-1 group-title="地方频道-内蒙古",经济生活
+http://192.168.31.140:8787/live/neimenggu?channelName=%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB
+#EXTINF:-1 group-title="地方频道-内蒙古",少儿频道
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="地方频道-内蒙古",文体娱乐
+http://192.168.31.140:8787/live/neimenggu?channelName=%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90
+#EXTINF:-1 group-title="地方频道-内蒙古",农牧频道
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%9C%E7%89%A7%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="地方频道-内蒙古",内蒙古蒙古语文化频道
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%86%85%E8%92%99%E5%8F%A4%E8%92%99%E5%8F%A4%E8%AF%AD%E6%96%87%E5%8C%96%E9%A2%91%E9%81%93
+#EXTINF:-1 group-title="地方频道-内蒙古",呼和浩特
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9
+#EXTINF:-1 group-title="地方频道-内蒙古",包头
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%8C%85%E5%A4%B4
+#EXTINF:-1 group-title="地方频道-内蒙古",乌海
+http://192.168.31.140:8787/live/neimenggu?channelName=%E4%B9%8C%E6%B5%B7
+#EXTINF:-1 group-title="地方频道-内蒙古",赤峰
+http://192.168.31.140:8787/live/neimenggu?channelName=%E8%B5%A4%E5%B3%B0
+#EXTINF:-1 group-title="地方频道-内蒙古",呼伦贝尔
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%91%BC%E4%BC%A6%E8%B4%9D%E5%B0%94
+#EXTINF:-1 group-title="地方频道-内蒙古",兴安盟
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%85%B4%E5%AE%89%E7%9B%9F
+#EXTINF:-1 group-title="地方频道-内蒙古",通辽
+http://192.168.31.140:8787/live/neimenggu?channelName=%E9%80%9A%E8%BE%BD
+#EXTINF:-1 group-title="地方频道-内蒙古",锡林郭勒
+http://192.168.31.140:8787/live/neimenggu?channelName=%E9%94%A1%E6%9E%97%E9%83%AD%E5%8B%92
+#EXTINF:-1 group-title="地方频道-内蒙古",乌兰察布
+http://192.168.31.140:8787/live/neimenggu?channelName=%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83
+#EXTINF:-1 group-title="地方频道-内蒙古",鄂尔多斯
+http://192.168.31.140:8787/live/neimenggu?channelName=%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF
+#EXTINF:-1 group-title="地方频道-内蒙古",巴彦淖尔
+http://192.168.31.140:8787/live/neimenggu?channelName=%E5%B7%B4%E5%BD%A6%E6%B7%96%E5%B0%94
+#EXTINF:-1 group-title="地方频道-内蒙古",阿拉善
+http://192.168.31.140:8787/live/neimenggu?channelName=%E9%98%BF%E6%8B%89%E5%96%84
 #EXTINF:-1 group-title="地方频道-哈尔滨",影视频道
 http://stream.hrbtv.net/yspd/playlist.m3u8?_upt=1de8a3d01786506239
 #EXTINF:-1 group-title="地方频道-哈尔滨",影视频道
@@ -509,16 +519,6 @@ https://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8
 https://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 #EXTINF:-1 group-title="地方频道-地方",吉安公共
 https://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
-#EXTINF:-1 group-title="地方频道-安徽",综艺体育
-https://live5.ahtv.cn/zyty1/playlist.m3u8?_upt=8e7ad7531786506067
-#EXTINF:-1 group-title="地方频道-安徽",安徽公共
-https://live5.ahtv.cn/ahgg/playlist.m3u8?_upt=5f2cb8981786506067
-#EXTINF:-1 group-title="地方频道-安徽",农业·科教
-https://live5.ahtv.cn/kjpd/playlist.m3u8?_upt=a8e1a3af1786506067
-#EXTINF:-1 group-title="地方频道-安徽",安徽国际
-https://live5.ahtv.cn/ahgj1/playlist.m3u8?_upt=cd24f3931786506067
-#EXTINF:-1 group-title="地方频道-安徽",移动电视
-https://live5.ahtv.cn/ydds1/playlist.m3u8?_upt=b88ebe5c1786506067
 #EXTINF:-1 group-title="地方频道-山东",齐鲁频道
 https://tstreamlive302.iqilu.com/291/5de861e29cdd4f9589327c8dd783172a/playlist.m3u8?k=f730d69c857f0e39ea54e60a40e77c4f&t=1786500236
 #EXTINF:-1 group-title="地方频道-山东",综艺频道
@@ -537,10 +537,6 @@ http://192.168.31.140:8787/live/shanxi_taiyuan?id=49VAfrw
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=u8BmT6h
 #EXTINF:-1 group-title="地方频道-山西",社教法制
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=phsry3e
-#EXTINF:-1 group-title="地方频道-山西",影视
-http://192.168.31.140:8787/live/shanxi_taiyuan?id=J4EX72D
-#EXTINF:-1 group-title="地方频道-山西",文体
-http://192.168.31.140:8787/live/shanxi_taiyuan?id=rk8Z088
 #EXTINF:-1 group-title="地方频道-山西",城市生活
 http://192.168.31.140:8787/live/shanxi_taiyuan?id=i88rmGU
 #EXTINF:-1 group-title="地方频道-山西",太原教育
@@ -587,48 +583,6 @@ http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encryp
 http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fymktpro.m3u8
 #EXTINF:-1 group-title="地方频道-江苏",江苏国际
 http://192.168.31.140:8787/live/jiangsu?liveUrl=https%3A%2F%2Flitchi-play-encrypted-site.jstv.com%2Fapplive%2Fjsgjpro.m3u8
-#EXTINF:-1 group-title="地方频道-江西",江西都市
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
-#EXTINF:-1 group-title="地方频道-江西",江西经济生活
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8
-#EXTINF:-1 group-title="地方频道-江西",江西公共农业
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
-#EXTINF:-1 group-title="地方频道-江西",江西新闻
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
-#EXTINF:-1 group-title="地方频道-江西",江西移动电视
-http://local.live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
-#EXTINF:-1 group-title="地方频道-江西",都市频道
-http://192.168.31.140:8787/live/jiangxi?id=jxtv2
-#EXTINF:-1 group-title="地方频道-江西",经济生活频道
-http://192.168.31.140:8787/live/jiangxi?id=jxtv3
-#EXTINF:-1 group-title="地方频道-江西",公共·农业频道
-http://192.168.31.140:8787/live/jiangxi?id=jxtv5
-#EXTINF:-1 group-title="地方频道-江西",少儿频道
-http://192.168.31.140:8787/live/jiangxi?id=jxtv6
-#EXTINF:-1 group-title="地方频道-江西",新闻频道
-http://192.168.31.140:8787/live/jiangxi?id=jxtv7
-#EXTINF:-1 group-title="地方频道-江西",移动电视频道
-http://192.168.31.140:8787/live/jiangxi?id=jxtv8
-#EXTINF:-1 group-title="地方频道-河北",经济生活
-https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1786506232&k=b76041917144852ca87847727ec18f33
-#EXTINF:-1 group-title="地方频道-河北",三农频道
-https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1786506232&k=e0f50f2af3944bcaa5c46f81e3a01ade
-#EXTINF:-1 group-title="地方频道-河北",河北都市
-https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1786506232&k=b0ced586562d3c506ca08f3bc240c8f8
-#EXTINF:-1 group-title="地方频道-河北",少儿科教
-https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1786506232&k=f89ca850d76dbae0686482aebea45f29
-#EXTINF:-1 group-title="地方频道-河北",三佳购物
-https://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=1786506232&k=d66680681d95c638b2bc9b5322838f26
-#EXTINF:-1 group-title="地方频道-河南",新闻频道
-http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=854cba87a73c36cfc0480d02be71eba9&wsTime=1786513425
-#EXTINF:-1 group-title="地方频道-河南",都市频道
-http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=5afecf0e3fa8df0880b48863272a6d95&wsTime=1786513425
-#EXTINF:-1 group-title="地方频道-河南",民生频道
-http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=44916063d051802caab9f5089dca6640&wsTime=1786513425
-#EXTINF:-1 group-title="地方频道-河南",法治频道
-http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=37220fad0a172a65c43c95c38e6d0611&wsTime=1786513425
-#EXTINF:-1 group-title="地方频道-河南",电视剧频道
-http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1fac1aad19ea406f07a6f02dd38830a9&wsTime=1786513425
 #EXTINF:-1 group-title="地方频道-河南",梨园频道
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1b14361a59fa6ac7ecab5e555ee94db1&wsTime=2101860501
 #EXTINF:-1 group-title="地方频道-河南",文物宝库
@@ -637,8 +591,6 @@ https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&tx
 https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=7fdbdaff89a6e3fcf52f942d7051a922&wsTime=2101860501
 #EXTINF:-1 group-title="地方频道-河南",睛彩中原
 https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=f78a4c58e05d31ba4f3554325aa7189d&wsTime=2101860501
-#EXTINF:-1 group-title="地方频道-河南",欢腾购物
-http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=d9bcd806a65bcc08c2fb40237440d31f&wsTime=1786513425
 #EXTINF:-1 group-title="地方频道-浙江",钱江都市
 https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2101860501-5a3d2cd9beefac9ae5c89fb70164147a-0-6355fa6060ce98bc51f93345b746d525
 #EXTINF:-1 group-title="地方频道-浙江",钱江都市
@@ -683,26 +635,6 @@ http://192.168.31.140:8787/live/ningbo?id=nbtv2_md
 http://192.168.31.140:8787/live/ningbo?id=nbtv3_md
 #EXTINF:-1 group-title="地方频道-浙江",NBTV-4
 http://192.168.31.140:8787/live/ningbo?id=nbtv4_md
-#EXTINF:-1 group-title="地方频道-海南",海南自贸
-https://live2.hnntv.cn/srs/tv/jjpd.m3u8?_upt=f06f06cd1786506238
-#EXTINF:-1 group-title="地方频道-海南",海南自贸
-http://192.168.31.140:8787/live/hainan?id=jjpd
-#EXTINF:-1 group-title="地方频道-海南",海南新闻
-https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=97ab25591786506238
-#EXTINF:-1 group-title="地方频道-海南",海南新闻
-http://192.168.31.140:8787/live/hainan?id=STHaiNan_channel_xwpd
-#EXTINF:-1 group-title="地方频道-海南",海南社会与法
-https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=d5dc47e31786506238
-#EXTINF:-1 group-title="地方频道-海南",海南社会与法
-http://192.168.31.140:8787/live/hainan?id=ggpd
-#EXTINF:-1 group-title="地方频道-海南",海南文旅
-https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=5b3ade091786506238
-#EXTINF:-1 group-title="地方频道-海南",海南文旅
-http://192.168.31.140:8787/live/hainan?id=wlpd
-#EXTINF:-1 group-title="地方频道-海南",海南少儿
-https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=d99eb32c1786506238
-#EXTINF:-1 group-title="地方频道-海南",海南少儿
-http://192.168.31.140:8787/live/hainan?id=sepd
 #EXTINF:-1 group-title="地方频道-深圳",深圳少儿
 https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
 #EXTINF:-1 group-title="地方频道-深圳",深圳少儿
@@ -765,8 +697,6 @@ http://192.168.31.140:8787/live/hunan?id=218
 http://192.168.31.140:8787/live/hunan?id=269
 #EXTINF:-1 group-title="地方频道-湖南",长沙政法
 http://192.168.31.140:8787/live/hunan?id=254
-#EXTINF:-1 group-title="地方频道-福建",福建综合
-https://live2-fuyun.fjtv.net/zhpd/hd/live.m3u8?_upt=75c082a51786512041
 #EXTINF:-1 group-title="地方频道-福建",福建新闻
 http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 #EXTINF:-1 group-title="地方频道-福建",福建经济
@@ -775,10 +705,6 @@ http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 http://183.11.239.36:808/hls/85/index.m3u8
 #EXTINF:-1 group-title="地方频道-贵州",贵州公共
 https://live.gzstv.com/live/ch02.m3u8
-#EXTINF:-1 group-title="地方频道-贵州",贵州影视文艺
-https://live.gzstv.com/live/ch03.m3u8
-#EXTINF:-1 group-title="地方频道-重庆",重庆新闻
-https://sjlivecdn.cbg.cn/202608120943/2e4ec66812c10009267f83d0d79493da/app_2/_definst_/ls_3.stream/chunklist.m3u8
 #EXTINF:-1 group-title="地方频道-陕西",陕西新闻资讯
 http://112.46.105.20:8009/hls/18/index.m3u8
 #EXTINF:-1 group-title="地方频道-陕西",陕西都市青春
